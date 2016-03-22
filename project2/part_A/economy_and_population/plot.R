@@ -1,0 +1,5 @@
+file = file("data.txt", open="r")
+lines = readLines(file)
+cos <- scan(text=lines[1], sep=',')
+ecld_dist <- scan(text=lines[2], sep=',')
+scatter.smooth(ecld_dist, cos, xlab='euclidean distance', ylab='cosine similarity', col="#CCCCCC")

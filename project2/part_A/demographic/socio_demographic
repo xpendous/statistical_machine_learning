@@ -1,0 +1,6033 @@
+(dp0
+S'Glenroy'
+p1
+(dp2
+VPopulation in non-private dwellings
+p3
+I506
+sV% dwellings which are public housing
+p4
+F10.767696909272184
+sV2nd top industry - persons
+p5
+VHealth Care and Social Assistance
+p6
+sV2nd top industry, %
+p7
+F11.59202621518296
+sVUnpaid carer to person with disability, persons
+p8
+I1849
+sVHolds degree or higher, %
+p9
+F41.775589882872175
+sV2nd top occupation - persons
+p10
+VTechnicians and Trades Workers
+p11
+sVDwellings with no motor vehicle
+p12
+I995
+sVOccupied private dwellings, %
+p13
+F92.39780658025923
+sVMale-headed lone parent families, %
+p14
+F3.321855377759773
+sVUnemployed, persons
+p15
+I575
+sVPrimary school students
+p16
+I1192
+sVFemale-headed lone parent families
+p17
+I802
+sVAged 75+ and lives alone, %
+p18
+F3.20415013732072
+sVTop industry, %
+p19
+F11.701256144183507
+sVEquivalent household income <$600/week, %
+p20
+F50.96908537562069
+sVAverage persons per household
+p21
+F2.598731165741475
+sVUnpaid carer of children, %
+p22
+F24.534875618423804
+sVPersonal income <$400/week, %
+p23
+F48.54022264230204
+sVDid not complete year 12, %
+p24
+F49.44592509468369
+sVUniversity students
+p25
+I681
+sVMale-headed lone parent families
+p26
+I164
+sVVolunteers, persons
+p27
+I1582
+sVVolunteers, %
+p28
+F11.03515625
+sVOccupied private dwellings
+p29
+I7414
+sVDid not complete year 12, persons
+p30
+I7050
+sVDwellings with no motor vehicle, %
+p31
+F12.400299102691925
+sVTop industry
+p32
+VManufacturing
+p33
+sVNumber of families
+p34
+I4937
+sV3rd top industry, %
+p35
+F9.448388858547242
+sVNumber of Households
+p36
+I7566
+sVIRSD (avg)
+p37
+F930.8622023867223
+sVEquivalent household income <$600/week
+p38
+I3182
+sVRequires assistance with core activities, %
+p39
+F8.921196101106888
+sV3rd top industry - persons
+p40
+VConstruction
+p41
+sVTop occupation
+p42
+VProfessionals
+p43
+sV3rd top occupation - persons
+p44
+VClerical and Administrative Workers
+p45
+sVDwellings with no internet
+p46
+I2103
+sVIRSD (min)
+p47
+F708.83870369
+sVUnemployed, %
+p48
+F7.0569464899361805
+sVSecondary school students
+p49
+I1045
+sV% residing near PT
+p50
+I100
+sVIRSD (max)
+p51
+F1037.438556
+sVAged 75+ and lives alone, persons
+p52
+I630
+sVRequires assistance with core activities, persons
+p53
+I1620
+sVFemale-headed lone parent families, %
+p54
+F16.244683005874013
+sV2nd top occupation, %
+p55
+F16.86632180778655
+sVUnpaid carer to person with disability, %
+p56
+F13.031221368665868
+sVDwellings with no internet, %
+p57
+F26.208873379860417
+sVHolds degree or higher, persons
+p58
+I2461
+sVTop occupation, %
+p59
+F17.233868772120882
+sV3rd top occupation, %
+p60
+F15.613939558943644
+sVPublic Housing Dwellings
+p61
+I864
+sVTAFE students
+p62
+I586
+sVPersonal income <$400/week, persons
+p63
+I6933
+sVUnpaid carer of children, persons
+p64
+I3521
+ssS'Northcote'
+p65
+(dp66
+VPopulation in non-private dwellings
+p67
+I205
+sV% dwellings which are public housing
+p68
+F6.336034364932149
+sV2nd top industry - persons
+p69
+VProfessional, Scientific and Technical Services
+p70
+sV2nd top industry, %
+p71
+F13.718793201593884
+sVUnpaid carer to person with disability, persons
+p72
+I2116
+sVHolds degree or higher, %
+p73
+F72.20371669004207
+sV2nd top occupation - persons
+p74
+VManagers
+p75
+sVDwellings with no motor vehicle
+p76
+I1508
+sVOccupied private dwellings, %
+p77
+F92.16049985355853
+sVMale-headed lone parent families, %
+p78
+F2.170460561143462
+sVUnemployed, persons
+p79
+I573
+sVPrimary school students
+p80
+I1529
+sVFemale-headed lone parent families
+p81
+I633
+sVAged 75+ and lives alone, %
+p82
+F1.7750447032142702
+sVTop industry, %
+p83
+F13.808245913637473
+sVEquivalent household income <$600/week, %
+p84
+F29.451383786431546
+sVAverage persons per household
+p85
+F2.398430962343096
+sVUnpaid carer of children, %
+p86
+F27.908791882700562
+sVPersonal income <$400/week, %
+p87
+F33.13998884551032
+sVDid not complete year 12, %
+p88
+F27.857582024481584
+sVUniversity students
+p89
+I1771
+sVMale-headed lone parent families
+p90
+I123
+sVVolunteers, persons
+p91
+I3945
+sVVolunteers, %
+p92
+F22.071164820409532
+sVOccupied private dwellings
+p93
+I9440
+sVDid not complete year 12, persons
+p94
+I4984
+sVDwellings with no motor vehicle, %
+p95
+F14.722249341013375
+sVTop industry
+p96
+VEducation and Training
+p97
+sVNumber of families
+p98
+I5667
+sV3rd top industry, %
+p99
+F13.621208424819061
+sVNumber of Households
+p100
+I9560
+sVIRSD (avg)
+p101
+F1047.217951289823
+sVEquivalent household income <$600/week
+p102
+I2405
+sVRequires assistance with core activities, %
+p103
+F5.3732849997705685
+sV3rd top industry - persons
+p104
+VHealth Care and Social Assistance
+p105
+sVTop occupation
+p106
+VProfessionals
+p107
+sV3rd top occupation - persons
+p108
+VClerical and Administrative Workers
+p109
+sVDwellings with no internet
+p110
+I1603
+sVIRSD (min)
+p111
+F905.89575508
+sVUnemployed, %
+p112
+F4.393497929765373
+sVSecondary school students
+p113
+I978
+sV% residing near PT
+p114
+I100
+sVIRSD (max)
+p115
+F1108.5724711
+sVAged 75+ and lives alone, persons
+p116
+I407
+sVRequires assistance with core activities, persons
+p117
+I1171
+sVFemale-headed lone parent families, %
+p118
+F11.169931180518793
+sV2nd top occupation, %
+p119
+F14.102039145033167
+sVUnpaid carer to person with disability, %
+p120
+F11.854341736694678
+sVDwellings with no internet, %
+p121
+F15.649711998437958
+sVHolds degree or higher, persons
+p122
+I8237
+sVTop occupation, %
+p123
+F42.715584309229385
+sV3rd top occupation, %
+p124
+F13.160265334534436
+sVPublic Housing Dwellings
+p125
+I649
+sVTAFE students
+p126
+I480
+sVPersonal income <$400/week, persons
+p127
+I5942
+sVUnpaid carer of children, persons
+p128
+I5006
+ssS'South_Melbourne'
+p129
+(dp130
+VPopulation in non-private dwellings
+p131
+I269
+sV% dwellings which are public housing
+p132
+F20.473372781065088
+sV2nd top industry - persons
+p133
+VFinancial and Insurance Services
+p134
+sV2nd top industry, %
+p135
+F9.460563955864323
+sVUnpaid carer to person with disability, persons
+p136
+I770
+sVHolds degree or higher, %
+p137
+F72.32939224227339
+sV2nd top occupation - persons
+p138
+VManagers
+p139
+sVDwellings with no motor vehicle
+p140
+I936
+sVOccupied private dwellings, %
+p141
+F89.30966469428007
+sVMale-headed lone parent families, %
+p142
+F2.7567807914628726
+sVUnemployed, persons
+p143
+I259
+sVPrimary school students
+p144
+I375
+sVFemale-headed lone parent families
+p145
+I259
+sVAged 75+ and lives alone, %
+p146
+F1.7801608579088473
+sVTop industry, %
+p147
+F20.126685737637924
+sVEquivalent household income <$600/week, %
+p148
+F29.776021080368906
+sVAverage persons per household
+p149
+F2.1696137738483015
+sVUnpaid carer of children, %
+p150
+F20.612850971922246
+sVPersonal income <$400/week, %
+p151
+F31.672069151809833
+sVDid not complete year 12, %
+p152
+F23.726962457337883
+sVUniversity students
+p153
+I662
+sVMale-headed lone parent families
+p154
+I62
+sVVolunteers, persons
+p155
+I1471
+sVVolunteers, %
+p156
+F19.91066594477531
+sVOccupied private dwellings
+p157
+I4528
+sVDid not complete year 12, persons
+p158
+I1738
+sVDwellings with no motor vehicle, %
+p159
+F18.46153846153846
+sVTop industry
+p160
+VProfessional, Scientific and Technical Services
+p161
+sVNumber of families
+p162
+I2249
+sV3rd top industry, %
+p163
+F9.358398038414386
+sVNumber of Households
+p164
+I4298
+sVIRSD (avg)
+p165
+F1021.6435616946454
+sVEquivalent household income <$600/week
+p166
+I1130
+sVRequires assistance with core activities, %
+p167
+F5.950568115262973
+sV3rd top industry - persons
+p168
+VHealth Care and Social Assistance
+p169
+sVTop occupation
+p170
+VProfessionals
+p171
+sV3rd top occupation - persons
+p172
+VClerical and Administrative Workers
+p173
+sVDwellings with no internet
+p174
+I683
+sVIRSD (min)
+p175
+F582.22811374
+sVUnemployed, %
+p176
+F4.920212765957447
+sVSecondary school students
+p177
+I254
+sV% residing near PT
+p178
+I100
+sVIRSD (max)
+p179
+F1136.18499
+sVAged 75+ and lives alone, persons
+p180
+I166
+sVRequires assistance with core activities, persons
+p181
+I508
+sVFemale-headed lone parent families, %
+p182
+F11.516229435304579
+sV2nd top occupation, %
+p183
+F20.06122448979592
+sVUnpaid carer to person with disability, %
+p184
+F10.452015745893851
+sVDwellings with no internet, %
+p185
+F13.471400394477318
+sVHolds degree or higher, persons
+p186
+I3487
+sVTop occupation, %
+p187
+F42.244897959183675
+sV3rd top occupation, %
+p188
+F13.36734693877551
+sVPublic Housing Dwellings
+p189
+I1038
+sVTAFE students
+p190
+I193
+sVPersonal income <$400/week, persons
+p191
+I2345
+sVUnpaid carer of children, persons
+p192
+I1527
+ssS'Prahran'
+p193
+(dp194
+VPopulation in non-private dwellings
+p195
+I311
+sV% dwellings which are public housing
+p196
+F6.709515598056122
+sV2nd top industry - persons
+p197
+VHealth Care and Social Assistance
+p198
+sV2nd top industry, %
+p199
+F11.112816577129701
+sVUnpaid carer to person with disability, persons
+p200
+I859
+sVHolds degree or higher, %
+p201
+F69.9635520212061
+sV2nd top occupation - persons
+p202
+VManagers
+p203
+sVDwellings with no motor vehicle
+p204
+I1179
+sVOccupied private dwellings, %
+p205
+F89.512462768459
+sVMale-headed lone parent families, %
+p206
+F1.8189167340339532
+sVUnemployed, persons
+p207
+I292
+sVPrimary school students
+p208
+I347
+sVFemale-headed lone parent families
+p209
+I252
+sVAged 75+ and lives alone, %
+p210
+F1.851023875525351
+sVTop industry, %
+p211
+F18.29623944742901
+sVEquivalent household income <$600/week, %
+p212
+F24.48542024013722
+sVAverage persons per household
+p213
+F2.0782382456792416
+sVUnpaid carer of children, %
+p214
+F17.151322286842973
+sVPersonal income <$400/week, %
+p215
+F25.33584989452648
+sVDid not complete year 12, %
+p216
+F20.233505892719464
+sVUniversity students
+p217
+I938
+sVMale-headed lone parent families
+p218
+I45
+sVVolunteers, persons
+p219
+I1704
+sVVolunteers, %
+p220
+F18.725274725274726
+sVOccupied private dwellings
+p221
+I5710
+sVDid not complete year 12, persons
+p222
+I1837
+sVDwellings with no motor vehicle, %
+p223
+F18.482520771280765
+sVTop industry
+p224
+VProfessional, Scientific and Technical Services
+p225
+sVNumber of families
+p226
+I2474
+sV3rd top industry, %
+p227
+F8.687643898695319
+sVNumber of Households
+p228
+I5381
+sVIRSD (avg)
+p229
+F1060.274321198894
+sVEquivalent household income <$600/week
+p230
+I1142
+sVRequires assistance with core activities, %
+p231
+F4.573110893032385
+sV3rd top industry - persons
+p232
+VRetail Trade
+p233
+sVTop occupation
+p234
+VProfessionals
+p235
+sV3rd top occupation - persons
+p236
+VClerical and Administrative Workers
+p237
+sVDwellings with no internet
+p238
+I796
+sVIRSD (min)
+p239
+F658.65610094
+sVUnemployed, %
+p240
+F4.178591871780195
+sVSecondary school students
+p241
+I220
+sV% residing near PT
+p242
+I100
+sVIRSD (max)
+p243
+F1131.5522013
+sVAged 75+ and lives alone, persons
+p244
+I207
+sVRequires assistance with core activities, persons
+p245
+I466
+sVFemale-headed lone parent families, %
+p246
+F10.185933710590138
+sV2nd top occupation, %
+p247
+F17.731361488031713
+sVUnpaid carer to person with disability, %
+p248
+F9.462436660057282
+sVDwellings with no internet, %
+p249
+F12.47844489731933
+sVHolds degree or higher, persons
+p250
+I4223
+sVTop occupation, %
+p251
+F40.2500381155664
+sV3rd top occupation, %
+p252
+F13.904558621741119
+sVPublic Housing Dwellings
+p253
+I428
+sVTAFE students
+p254
+I206
+sVPersonal income <$400/week, persons
+p255
+I2282
+sVUnpaid carer of children, persons
+p256
+I1563
+ssS'Murrumbeena'
+p257
+(dp258
+VPopulation in non-private dwellings
+p259
+I87
+sV% dwellings which are public housing
+p260
+F1.9161056447436562
+sV2nd top industry - persons
+p261
+VEducation and Training
+p262
+sV2nd top industry, %
+p263
+F10.803689064558629
+sVUnpaid carer to person with disability, persons
+p264
+I783
+sVHolds degree or higher, %
+p265
+F65.49329501915709
+sV2nd top occupation - persons
+p266
+VClerical and Administrative Workers
+p267
+sVDwellings with no motor vehicle
+p268
+I432
+sVOccupied private dwellings, %
+p269
+F92.67219057483169
+sVMale-headed lone parent families, %
+p270
+F1.7761989342806395
+sVUnemployed, persons
+p271
+I219
+sVPrimary school students
+p272
+I635
+sVFemale-headed lone parent families
+p273
+I204
+sVAged 75+ and lives alone, %
+p274
+F2.621461027612723
+sVTop industry, %
+p275
+F12.53842775581906
+sVEquivalent household income <$600/week, %
+p276
+F30.05344231373782
+sVAverage persons per household
+p277
+F2.3367819221344948
+sVUnpaid carer of children, %
+p278
+F28.757204078616816
+sVPersonal income <$400/week, %
+p279
+F33.436669619131976
+sVDid not complete year 12, %
+p280
+F27.218934911242602
+sVUniversity students
+p281
+I626
+sVMale-headed lone parent families
+p282
+I40
+sVVolunteers, persons
+p283
+I1278
+sVVolunteers, %
+p284
+F18.961424332344215
+sVOccupied private dwellings
+p285
+I3579
+sVDid not complete year 12, persons
+p286
+I1840
+sVDwellings with no motor vehicle, %
+p287
+F11.185914034179183
+sVTop industry
+p288
+VProfessional, Scientific and Technical Services
+p289
+sVNumber of families
+p290
+I2252
+sV3rd top industry, %
+p291
+F10.628019323671497
+sVNumber of Households
+p292
+I3673
+sVIRSD (avg)
+p293
+F1073.129629547361
+sVEquivalent household income <$600/week
+p294
+I956
+sVRequires assistance with core activities, %
+p295
+F3.86049308478653
+sV3rd top industry - persons
+p296
+VRetail Trade
+p297
+sVTop occupation
+p298
+VProfessionals
+p299
+sV3rd top occupation - persons
+p300
+VManagers
+p301
+sVDwellings with no internet
+p302
+I576
+sVIRSD (min)
+p303
+F1009.2715711
+sVUnemployed, %
+p304
+F4.473039215686274
+sVSecondary school students
+p305
+I448
+sV% residing near PT
+p306
+I100
+sVIRSD (max)
+p307
+F1120.608689
+sVAged 75+ and lives alone, persons
+p308
+I225
+sVRequires assistance with core activities, persons
+p309
+I321
+sVFemale-headed lone parent families, %
+p310
+F9.058614564831261
+sV2nd top occupation, %
+p311
+F17.333040421792617
+sVUnpaid carer to person with disability, %
+p312
+F11.656989727556946
+sVDwellings with no internet, %
+p313
+F14.914552045572242
+sVHolds degree or higher, persons
+p314
+I2735
+sVTop occupation, %
+p315
+F33.062390158172235
+sV3rd top occupation, %
+p316
+F13.532513181019333
+sVPublic Housing Dwellings
+p317
+I74
+sVTAFE students
+p318
+I146
+sVPersonal income <$400/week, persons
+p319
+I2265
+sVUnpaid carer of children, persons
+p320
+I1946
+ssS'St_Kilda_West'
+p321
+(dp322
+VPopulation in non-private dwellings
+p323
+I24
+sV% dwellings which are public housing
+p324
+F0.5589714924538849
+sV2nd top industry - persons
+p325
+VHealth Care and Social Assistance
+p326
+sV2nd top industry, %
+p327
+F9.857612267250822
+sVUnpaid carer to person with disability, persons
+p328
+I245
+sVHolds degree or higher, %
+p329
+F71.85592185592185
+sV2nd top occupation - persons
+p330
+VManagers
+p331
+sVDwellings with no motor vehicle
+p332
+I272
+sVOccupied private dwellings, %
+p333
+F85.80212409167133
+sVMale-headed lone parent families, %
+p334
+F3.436988543371522
+sVUnemployed, persons
+p335
+I68
+sVPrimary school students
+p336
+I114
+sVFemale-headed lone parent families
+p337
+I38
+sVAged 75+ and lives alone, %
+p338
+F2.042972877773864
+sVTop industry, %
+p339
+F20.427163198247534
+sVEquivalent household income <$600/week, %
+p340
+F15.726767275615568
+sVAverage persons per household
+p341
+F1.9687933425797504
+sVUnpaid carer of children, %
+p342
+F18.370883882149048
+sVPersonal income <$400/week, %
+p343
+F17.043478260869566
+sVDid not complete year 12, %
+p344
+F17.2279792746114
+sVUniversity students
+p345
+I195
+sVMale-headed lone parent families
+p346
+I21
+sVVolunteers, persons
+p347
+I476
+sVVolunteers, %
+p348
+F20.58823529411765
+sVOccupied private dwellings
+p349
+I1535
+sVDid not complete year 12, persons
+p350
+I399
+sVDwellings with no motor vehicle, %
+p351
+F15.204024594745668
+sVTop industry
+p352
+VProfessional, Scientific and Technical Services
+p353
+sVNumber of families
+p354
+I611
+sV3rd top industry, %
+p355
+F8.817086527929902
+sVNumber of Households
+p356
+I1442
+sVIRSD (avg)
+p357
+F1097.6200771641902
+sVEquivalent household income <$600/week
+p358
+I198
+sVRequires assistance with core activities, %
+p359
+F1.9771863117870723
+sV3rd top industry - persons
+p360
+VFinancial and Insurance Services
+p361
+sVTop occupation
+p362
+VProfessionals
+p363
+sV3rd top occupation - persons
+p364
+VClerical and Administrative Workers
+p365
+sVDwellings with no internet
+p366
+I182
+sVIRSD (min)
+p367
+F1086.4614888
+sVUnemployed, %
+p368
+F3.5583464154892726
+sVSecondary school students
+p369
+I84
+sV% residing near PT
+p370
+I100
+sVIRSD (max)
+p371
+F1153.5173431
+sVAged 75+ and lives alone, persons
+p372
+I58
+sVRequires assistance with core activities, persons
+p373
+I52
+sVFemale-headed lone parent families, %
+p374
+F6.219312602291326
+sV2nd top occupation, %
+p375
+F19.224376731301938
+sVUnpaid carer to person with disability, %
+p376
+F10.592304366623432
+sVDwellings with no internet, %
+p377
+F10.173281162660704
+sVHolds degree or higher, persons
+p378
+I1177
+sVTop occupation, %
+p379
+F44.48753462603878
+sV3rd top occupation, %
+p380
+F12.520775623268698
+sVPublic Housing Dwellings
+p381
+I10
+sVTAFE students
+p382
+I46
+sVPersonal income <$400/week, persons
+p383
+I392
+sVUnpaid carer of children, persons
+p384
+I424
+ssS'Parkville'
+p385
+(dp386
+VPopulation in non-private dwellings
+p387
+I3490
+sV% dwellings which are public housing
+p388
+F4.016268429079817
+sV2nd top industry - persons
+p389
+VAccommodation and Food Services
+p390
+sV2nd top industry, %
+p391
+F14.699570815450643
+sVUnpaid carer to person with disability, persons
+p392
+I407
+sVHolds degree or higher, %
+p393
+F80.4282494365139
+sV2nd top occupation - persons
+p394
+VCommunity and Personal Service Workers
+p395
+sVDwellings with no motor vehicle
+p396
+I359
+sVOccupied private dwellings, %
+p397
+F87.18861209964413
+sVMale-headed lone parent families, %
+p398
+F1.6928657799274487
+sVUnemployed, persons
+p399
+I397
+sVPrimary school students
+p400
+I139
+sVFemale-headed lone parent families
+p401
+I78
+sVAged 75+ and lives alone, %
+p402
+F0.5659767141009056
+sVTop industry, %
+p403
+F19.70672389127325
+sVEquivalent household income <$600/week, %
+p404
+F26.368876080691642
+sVAverage persons per household
+p405
+F3.7524271844660193
+sVUnpaid carer of children, %
+p406
+F12.304542069992554
+sVPersonal income <$400/week, %
+p407
+F55.40161018535855
+sVDid not complete year 12, %
+p408
+F11.46413972500929
+sVUniversity students
+p409
+I2655
+sVMale-headed lone parent families
+p410
+I14
+sVVolunteers, persons
+p411
+I1959
+sVVolunteers, %
+p412
+F36.60313901345292
+sVOccupied private dwellings
+p413
+I1715
+sVDid not complete year 12, persons
+p414
+I617
+sVDwellings with no motor vehicle, %
+p415
+F18.251143873919673
+sVTop industry
+p416
+VEducation and Training
+p417
+sVNumber of families
+p418
+I827
+sV3rd top industry, %
+p419
+F14.163090128755364
+sVNumber of Households
+p420
+I1648
+sVIRSD (avg)
+p421
+F1052.977569732339
+sVEquivalent household income <$600/week
+p422
+I366
+sVRequires assistance with core activities, %
+p423
+F5.046989209885138
+sV3rd top industry - persons
+p424
+VProfessional, Scientific and Technical Services
+p425
+sVTop occupation
+p426
+VProfessionals
+p427
+sV3rd top occupation - persons
+p428
+VClerical and Administrative Workers
+p429
+sVDwellings with no internet
+p430
+I123
+sVIRSD (min)
+p431
+F1000.2033943
+sVUnemployed, %
+p432
+F12.15926493108729
+sVSecondary school students
+p433
+I140
+sV% residing near PT
+p434
+F96.94581547673152
+sVIRSD (max)
+p435
+F1121.9140334
+sVAged 75+ and lives alone, persons
+p436
+I35
+sVRequires assistance with core activities, persons
+p437
+I290
+sVFemale-headed lone parent families, %
+p438
+F9.4316807738815
+sV2nd top occupation, %
+p439
+F13.280689160086146
+sVUnpaid carer to person with disability, %
+p440
+F7.596117954460619
+sVDwellings with no internet, %
+p441
+F6.253177427554652
+sVHolds degree or higher, persons
+p442
+I2141
+sVTop occupation, %
+p443
+F43.32376166547021
+sV3rd top occupation, %
+p444
+F12.957645369705672
+sVPublic Housing Dwellings
+p445
+I79
+sVTAFE students
+p446
+I52
+sVPersonal income <$400/week, persons
+p447
+I2959
+sVUnpaid carer of children, persons
+p448
+I661
+ssS'Ascot_Vale'
+p449
+(dp450
+VPopulation in non-private dwellings
+p451
+I72
+sV% dwellings which are public housing
+p452
+F24.025548640681297
+sV2nd top industry - persons
+p453
+VHealth Care and Social Assistance
+p454
+sV2nd top industry, %
+p455
+F12.028964090438894
+sVUnpaid carer to person with disability, persons
+p456
+I1121
+sVHolds degree or higher, %
+p457
+F62.61253609648378
+sV2nd top occupation - persons
+p458
+VClerical and Administrative Workers
+p459
+sVDwellings with no motor vehicle
+p460
+I825
+sVOccupied private dwellings, %
+p461
+F92.26989846053063
+sVMale-headed lone parent families, %
+p462
+F2.5529445894981144
+sVUnemployed, persons
+p463
+I440
+sVPrimary school students
+p464
+I853
+sVFemale-headed lone parent families
+p465
+I465
+sVAged 75+ and lives alone, %
+p466
+F1.4228546020453534
+sVTop industry, %
+p467
+F13.122506280478794
+sVEquivalent household income <$600/week, %
+p468
+F33.782645324347094
+sVAverage persons per household
+p469
+F2.433104940497656
+sVUnpaid carer of children, %
+p470
+F26.895466614219686
+sVPersonal income <$400/week, %
+p471
+F35.236317185811146
+sVDid not complete year 12, %
+p472
+F31.870191359242455
+sVUniversity students
+p473
+I827
+sVMale-headed lone parent families
+p474
+I88
+sVVolunteers, persons
+p475
+I1917
+sVVolunteers, %
+p476
+F18.942687747035574
+sVOccupied private dwellings
+p477
+I5634
+sVDid not complete year 12, persons
+p478
+I3231
+sVDwellings with no motor vehicle, %
+p479
+F13.511300360301343
+sVTop industry
+p480
+VProfessional, Scientific and Technical Services
+p481
+sVNumber of families
+p482
+I3447
+sV3rd top industry, %
+p483
+F10.359095611053643
+sVNumber of Households
+p484
+I5546
+sVIRSD (avg)
+p485
+F989.9907155968474
+sVEquivalent household income <$600/week
+p486
+I1604
+sVRequires assistance with core activities, %
+p487
+F4.4671346522016595
+sV3rd top industry - persons
+p488
+VEducation and Training
+p489
+sVTop occupation
+p490
+VProfessionals
+p491
+sV3rd top occupation - persons
+p492
+VManagers
+p493
+sVDwellings with no internet
+p494
+I1062
+sVIRSD (min)
+p495
+F399.59097138
+sVUnemployed, %
+p496
+F5.972580426225058
+sVSecondary school students
+p497
+I624
+sV% residing near PT
+p498
+I100
+sVIRSD (max)
+p499
+F1104.5473503
+sVAged 75+ and lives alone, persons
+p500
+I192
+sVRequires assistance with core activities, persons
+p501
+I560
+sVFemale-headed lone parent families, %
+p502
+F13.489991296779808
+sV2nd top occupation, %
+p503
+F16.484490398818316
+sVUnpaid carer to person with disability, %
+p504
+F11.119928578514036
+sVDwellings with no internet, %
+p505
+F17.392728463806094
+sVHolds degree or higher, persons
+p506
+I3686
+sVTop occupation, %
+p507
+F33.14623338257016
+sV3rd top occupation, %
+p508
+F15.051698670605614
+sVPublic Housing Dwellings
+p509
+I1467
+sVTAFE students
+p510
+I364
+sVPersonal income <$400/week, persons
+p511
+I3586
+sVUnpaid carer of children, persons
+p512
+I2735
+ssS'Malvern_East'
+p513
+(dp514
+VPopulation in non-private dwellings
+p515
+I238
+sV% dwellings which are public housing
+p516
+F0.9604863221884499
+sV2nd top industry - persons
+p517
+VHealth Care and Social Assistance
+p518
+sV2nd top industry, %
+p519
+F12.681827494365908
+sVUnpaid carer to person with disability, persons
+p520
+I1881
+sVHolds degree or higher, %
+p521
+F68.37615728700717
+sV2nd top occupation - persons
+p522
+VManagers
+p523
+sVDwellings with no motor vehicle
+p524
+I795
+sVOccupied private dwellings, %
+p525
+F92.02431610942249
+sVMale-headed lone parent families, %
+p526
+F1.8818818818818819
+sVUnemployed, persons
+p527
+I549
+sVPrimary school students
+p528
+I1711
+sVFemale-headed lone parent families
+p529
+I458
+sVAged 75+ and lives alone, %
+p530
+F2.130731318763379
+sVTop industry, %
+p531
+F15.693505429215325
+sVEquivalent household income <$600/week, %
+p532
+F27.675276752767527
+sVAverage persons per household
+p533
+F2.62027132794156
+sVUnpaid carer of children, %
+p534
+F29.421669580985686
+sVPersonal income <$400/week, %
+p535
+F36.29779459741616
+sVDid not complete year 12, %
+p536
+F24.207174421627244
+sVUniversity students
+p537
+I2103
+sVMale-headed lone parent families
+p538
+I94
+sVVolunteers, persons
+p539
+I3566
+sVVolunteers, %
+p540
+F23.149831212672034
+sVOccupied private dwellings
+p541
+I7569
+sVDid not complete year 12, persons
+p542
+I3725
+sVDwellings with no motor vehicle, %
+p543
+F9.66565349544073
+sVTop industry
+p544
+VProfessional, Scientific and Technical Services
+p545
+sVNumber of families
+p546
+I4995
+sV3rd top industry, %
+p547
+F10.3359967219832
+sVNumber of Households
+p548
+I7666
+sVIRSD (avg)
+p549
+F1090.6250335298969
+sVEquivalent household income <$600/week
+p550
+I1800
+sVRequires assistance with core activities, %
+p551
+F3.437564713191137
+sV3rd top industry - persons
+p552
+VRetail Trade
+p553
+sVTop occupation
+p554
+VProfessionals
+p555
+sV3rd top occupation - persons
+p556
+VClerical and Administrative Workers
+p557
+sVDwellings with no internet
+p558
+I997
+sVIRSD (min)
+p559
+F998.48142848
+sVUnemployed, %
+p560
+F5.23705046265382
+sVSecondary school students
+p561
+I1310
+sV% residing near PT
+p562
+I100
+sVIRSD (max)
+p563
+F1167.399105
+sVAged 75+ and lives alone, persons
+p564
+I428
+sVRequires assistance with core activities, persons
+p565
+I664
+sVFemale-headed lone parent families, %
+p566
+F9.16916916916917
+sV2nd top occupation, %
+p567
+F18.188368502316006
+sVUnpaid carer to person with disability, %
+p568
+F12.28127448419953
+sVDwellings with no internet, %
+p569
+F12.121580547112462
+sVHolds degree or higher, persons
+p570
+I6573
+sVTop occupation, %
+p571
+F36.3973237261966
+sV3rd top occupation, %
+p572
+F14.47246525990736
+sVPublic Housing Dwellings
+p573
+I79
+sVTAFE students
+p574
+I326
+sVPersonal income <$400/week, persons
+p575
+I5563
+sVUnpaid carer of children, persons
+p576
+I4543
+ssS'Waterways'
+p577
+(dp578
+VPopulation in non-private dwellings
+p579
+V<5
+p580
+sV% dwellings which are public housing
+p581
+Vn/a
+p582
+sV2nd top industry - persons
+p583
+VRetail Trade
+p584
+sV2nd top industry, %
+p585
+F11.101000909918108
+sVUnpaid carer to person with disability, persons
+p586
+I174
+sVHolds degree or higher, %
+p587
+F59.67926689576174
+sV2nd top occupation - persons
+p588
+VManagers
+p589
+sVDwellings with no motor vehicle
+p590
+g580
+sVOccupied private dwellings, %
+p591
+F95.88839941262849
+sVMale-headed lone parent families, %
+p592
+F0.8431703204047217
+sVUnemployed, persons
+p593
+I43
+sVPrimary school students
+p594
+I238
+sVFemale-headed lone parent families
+p595
+I22
+sVAged 75+ and lives alone, %
+p596
+g582
+sVTop industry, %
+p597
+F14.285714285714286
+sVEquivalent household income <$600/week, %
+p598
+F17.168141592920353
+sVAverage persons per household
+p599
+F3.1441048034934496
+sVUnpaid carer of children, %
+p600
+F38.1294964028777
+sVPersonal income <$400/week, %
+p601
+F29.11978821972204
+sVDid not complete year 12, %
+p602
+F29.442622950819672
+sVUniversity students
+p603
+I95
+sVMale-headed lone parent families
+p604
+I5
+sVVolunteers, persons
+p605
+I223
+sVVolunteers, %
+p606
+F14.651773981603153
+sVOccupied private dwellings
+p607
+I653
+sVDid not complete year 12, persons
+p608
+I449
+sVDwellings with no motor vehicle, %
+p609
+g582
+sVTop industry
+p610
+VManufacturing
+p611
+sVNumber of families
+p612
+I593
+sV3rd top industry, %
+p613
+F10.464058234758872
+sVNumber of Households
+p614
+I687
+sVIRSD (avg)
+p615
+F1115.087453656204
+sVEquivalent household income <$600/week
+p616
+I97
+sVRequires assistance with core activities, %
+p617
+F1.5355086372360844
+sV3rd top industry - persons
+p618
+VProfessional, Scientific and Technical Services
+p619
+sVTop occupation
+p620
+VProfessionals
+p621
+sV3rd top occupation - persons
+p622
+VClerical and Administrative Workers
+p623
+sVDwellings with no internet
+p624
+I33
+sVIRSD (min)
+p625
+F1111.1815653
+sVUnemployed, %
+p626
+F3.6658141517476555
+sVSecondary school students
+p627
+I187
+sV% residing near PT
+p628
+I100
+sVIRSD (max)
+p629
+F1126.1529132
+sVAged 75+ and lives alone, persons
+p630
+g580
+sVRequires assistance with core activities, persons
+p631
+I32
+sVFemale-headed lone parent families, %
+p632
+F3.709949409780776
+sV2nd top occupation, %
+p633
+F20.018365472910926
+sVUnpaid carer to person with disability, %
+p634
+F11.379986919555265
+sVDwellings with no internet, %
+p635
+F4.845814977973569
+sVHolds degree or higher, persons
+p636
+I521
+sVTop occupation, %
+p637
+F28.650137741046834
+sV3rd top occupation, %
+p638
+F17.447199265381084
+sVPublic Housing Dwellings
+p639
+g580
+sVTAFE students
+p640
+I23
+sVPersonal income <$400/week, persons
+p641
+I440
+sVUnpaid carer of children, persons
+p642
+I583
+ssS'Craigieburn'
+p643
+(dp644
+VPopulation in non-private dwellings
+p645
+I5
+sV% dwellings which are public housing
+p646
+F3.4766862833861474
+sV2nd top industry - persons
+p647
+VRetail Trade
+p648
+sV2nd top industry, %
+p649
+F10.746228807902817
+sVUnpaid carer to person with disability, persons
+p650
+I2474
+sVHolds degree or higher, %
+p651
+F32.62070376432079
+sV2nd top occupation - persons
+p652
+VTechnicians and Trades Workers
+p653
+sVDwellings with no motor vehicle
+p654
+I367
+sVOccupied private dwellings, %
+p655
+F93.50837483023993
+sVMale-headed lone parent families, %
+p656
+F2.7388034571781343
+sVUnemployed, persons
+p657
+I1053
+sVPrimary school students
+p658
+I3207
+sVFemale-headed lone parent families
+p659
+I1284
+sVAged 75+ and lives alone, %
+p660
+F0.1984248122596007
+sVTop industry, %
+p661
+F18.128420771592577
+sVEquivalent household income <$600/week, %
+p662
+F35.96907785753727
+sVAverage persons per household
+p663
+F2.9642566283594243
+sVUnpaid carer of children, %
+p664
+F35.81521501378013
+sVPersonal income <$400/week, %
+p665
+F38.552948914711685
+sVDid not complete year 12, %
+p666
+F48.88723385612897
+sVUniversity students
+p667
+I933
+sVMale-headed lone parent families
+p668
+I244
+sVVolunteers, persons
+p669
+I2350
+sVVolunteers, %
+p670
+F10.372986095784595
+sVOccupied private dwellings
+p671
+I10328
+sVDid not complete year 12, persons
+p672
+I11159
+sVDwellings with no motor vehicle, %
+p673
+F3.3227704843820733
+sVTop industry
+p674
+VManufacturing
+p675
+sVNumber of families
+p676
+I8909
+sV3rd top industry, %
+p677
+F10.305700173541583
+sVNumber of Households
+p678
+I11051
+sVIRSD (avg)
+p679
+F990.0172813301376
+sVEquivalent household income <$600/week
+p680
+I3257
+sVRequires assistance with core activities, %
+p681
+F3.5645718674004865
+sV3rd top industry - persons
+p682
+VHealth Care and Social Assistance
+p683
+sVTop occupation
+p684
+VClerical and Administrative Workers
+p685
+sV3rd top occupation - persons
+p686
+VMachinery Operators and Drivers
+p687
+sVDwellings with no internet
+p688
+I1374
+sVIRSD (min)
+p689
+F909.04362459
+sVUnemployed, %
+p690
+F6.383365664403492
+sVSecondary school students
+p691
+I2452
+sV% residing near PT
+p692
+F74.16538360864833
+sVIRSD (max)
+p693
+F1058.579956
+sVAged 75+ and lives alone, persons
+p694
+I65
+sVRequires assistance with core activities, persons
+p695
+I1114
+sVFemale-headed lone parent families, %
+p696
+F14.412391963183298
+sV2nd top occupation, %
+p697
+F17.450156698006268
+sVUnpaid carer to person with disability, %
+p698
+F10.929010027830543
+sVDwellings with no internet, %
+p699
+F12.440018107741059
+sVHolds degree or higher, persons
+p700
+I3189
+sVTop occupation, %
+p701
+F17.67686870707475
+sV3rd top occupation, %
+p702
+F12.47582849903314
+sVPublic Housing Dwellings
+p703
+I384
+sVTAFE students
+p704
+I795
+sVPersonal income <$400/week, persons
+p705
+I8792
+sVUnpaid carer of children, persons
+p706
+I8187
+ssS'Port_Melbourne'
+p707
+(dp708
+VPopulation in non-private dwellings
+p709
+I62
+sV% dwellings which are public housing
+p710
+F11.745796241345202
+sV2nd top industry - persons
+p711
+VFinancial and Insurance Services
+p712
+sV2nd top industry, %
+p713
+F9.44179797239526
+sVUnpaid carer to person with disability, persons
+p714
+I1205
+sVHolds degree or higher, %
+p715
+F67.21024258760107
+sV2nd top occupation - persons
+p716
+VManagers
+p717
+sVDwellings with no motor vehicle
+p718
+I814
+sVOccupied private dwellings, %
+p719
+F87.37636003956479
+sVMale-headed lone parent families, %
+p720
+F2.0784004209418576
+sVUnemployed, persons
+p721
+I319
+sVPrimary school students
+p722
+I644
+sVFemale-headed lone parent families
+p723
+I403
+sVAged 75+ and lives alone, %
+p724
+F1.611459265890779
+sVTop industry, %
+p725
+F18.480517894222547
+sVEquivalent household income <$600/week, %
+p726
+F22.399865365196902
+sVAverage persons per household
+p727
+F2.1376416899749744
+sVUnpaid carer of children, %
+p728
+F23.400223925587806
+sVPersonal income <$400/week, %
+p729
+F25.50862068965517
+sVDid not complete year 12, %
+p730
+F27.275880006936017
+sVUniversity students
+p731
+I653
+sVMale-headed lone parent families
+p732
+I79
+sVVolunteers, persons
+p733
+I2156
+sVVolunteers, %
+p734
+F18.624740843123703
+sVOccupied private dwellings
+p735
+I7067
+sVDid not complete year 12, persons
+p736
+I3146
+sVDwellings with no motor vehicle, %
+p737
+F10.06429277942631
+sVTop industry
+p738
+VProfessional, Scientific and Technical Services
+p739
+sVNumber of families
+p740
+I3801
+sV3rd top industry, %
+p741
+F8.07377549774032
+sVNumber of Households
+p742
+I6793
+sVIRSD (avg)
+p743
+F1062.6854005273253
+sVEquivalent household income <$600/week
+p744
+I1331
+sVRequires assistance with core activities, %
+p745
+F3.7376219194401012
+sV3rd top industry - persons
+p746
+VManufacturing
+p747
+sVTop occupation
+p748
+VProfessionals
+p749
+sV3rd top occupation - persons
+p750
+VClerical and Administrative Workers
+p751
+sVDwellings with no internet
+p752
+I979
+sVIRSD (min)
+p753
+F803.70369114
+sVUnemployed, %
+p754
+F3.67553865652725
+sVSecondary school students
+p755
+I398
+sV% residing near PT
+p756
+F89.72230953361928
+sVIRSD (max)
+p757
+F1145.4895892
+sVAged 75+ and lives alone, persons
+p758
+I234
+sVRequires assistance with core activities, persons
+p759
+I502
+sVFemale-headed lone parent families, %
+p760
+F10.60247303341226
+sV2nd top occupation, %
+p761
+F24.058397742608268
+sVUnpaid carer to person with disability, %
+p762
+F10.470976711852625
+sVDwellings with no internet, %
+p763
+F12.104352126607319
+sVHolds degree or higher, persons
+p764
+I4987
+sVTop occupation, %
+p765
+F37.43099006256901
+sV3rd top occupation, %
+p766
+F13.090418353576249
+sVPublic Housing Dwellings
+p767
+I950
+sVTAFE students
+p768
+I135
+sVPersonal income <$400/week, persons
+p769
+I2959
+sVUnpaid carer of children, persons
+p770
+I2717
+ssS'St_Kilda_East'
+p771
+(dp772
+VPopulation in non-private dwellings
+p773
+I292
+sV% dwellings which are public housing
+p774
+F1.8428861471185383
+sV2nd top industry - persons
+p775
+VHealth Care and Social Assistance
+p776
+sV2nd top industry, %
+p777
+F12.029530978575565
+sVUnpaid carer to person with disability, persons
+p778
+I1126
+sVHolds degree or higher, %
+p779
+F66.55644780349552
+sV2nd top occupation - persons
+p780
+VManagers
+p781
+sVDwellings with no motor vehicle
+p782
+I946
+sVOccupied private dwellings, %
+p783
+F90.06715602061534
+sVMale-headed lone parent families, %
+p784
+F1.583793738489871
+sVUnemployed, persons
+p785
+I324
+sVPrimary school students
+p786
+I737
+sVFemale-headed lone parent families
+p787
+I265
+sVAged 75+ and lives alone, %
+p788
+F1.9439133205863608
+sVTop industry, %
+p789
+F15.894614939200926
+sVEquivalent household income <$600/week, %
+p790
+F25.369761709120787
+sVAverage persons per household
+p791
+F2.2406283470189217
+sVUnpaid carer of children, %
+p792
+F23.465926611162505
+sVPersonal income <$400/week, %
+p793
+F28.227390180878555
+sVDid not complete year 12, %
+p794
+F21.59851684004532
+sVUniversity students
+p795
+I880
+sVMale-headed lone parent families
+p796
+I43
+sVVolunteers, persons
+p797
+I2441
+sVVolunteers, %
+p798
+F25.12609366958312
+sVOccupied private dwellings
+p799
+I5767
+sVDid not complete year 12, persons
+p800
+I2097
+sVDwellings with no motor vehicle, %
+p801
+F14.774324535374044
+sVTop industry
+p802
+VProfessional, Scientific and Technical Services
+p803
+sVNumber of families
+p804
+I2715
+sV3rd top industry, %
+p805
+F10.509554140127388
+sVNumber of Households
+p806
+I5602
+sVIRSD (avg)
+p807
+F1064.8061443903348
+sVEquivalent household income <$600/week
+p808
+I1235
+sVRequires assistance with core activities, %
+p809
+F3.215900366800307
+sV3rd top industry - persons
+p810
+VEducation and Training
+p811
+sVTop occupation
+p812
+VProfessionals
+p813
+sV3rd top occupation - persons
+p814
+VClerical and Administrative Workers
+p815
+sVDwellings with no internet
+p816
+I806
+sVIRSD (min)
+p817
+F932.86676924
+sVUnemployed, %
+p818
+F4.37365010799136
+sVSecondary school students
+p819
+I599
+sV% residing near PT
+p820
+I100
+sVIRSD (max)
+p821
+F1118.0199229
+sVAged 75+ and lives alone, persons
+p822
+I244
+sVRequires assistance with core activities, persons
+p823
+I377
+sVFemale-headed lone parent families, %
+p824
+F9.760589318600369
+sV2nd top occupation, %
+p825
+F15.16601420907641
+sVUnpaid carer to person with disability, %
+p826
+F11.645464887785707
+sVDwellings with no internet, %
+p827
+F12.587849445572388
+sVHolds degree or higher, persons
+p828
+I4227
+sVTop occupation, %
+p829
+F39.88690735102218
+sV3rd top occupation, %
+p830
+F14.310569812962157
+sVPublic Housing Dwellings
+p831
+I118
+sVTAFE students
+p832
+I244
+sVPersonal income <$400/week, persons
+p833
+I2731
+sVUnpaid carer of children, persons
+p834
+I2283
+ssS'Malvern'
+p835
+(dp836
+VPopulation in non-private dwellings
+p837
+I337
+sV% dwellings which are public housing
+p838
+F0.515084621044886
+sV2nd top industry - persons
+p839
+VHealth Care and Social Assistance
+p840
+sV2nd top industry, %
+p841
+F14.790380932113216
+sVUnpaid carer to person with disability, persons
+p842
+I949
+sVHolds degree or higher, %
+p843
+F73.17023026315789
+sV2nd top occupation - persons
+p844
+VManagers
+p845
+sVDwellings with no motor vehicle
+p846
+I306
+sVOccupied private dwellings, %
+p847
+F91.56242335050283
+sVMale-headed lone parent families, %
+p848
+F1.5741507870753935
+sVUnemployed, persons
+p849
+I205
+sVPrimary school students
+p850
+I786
+sVFemale-headed lone parent families
+p851
+I221
+sVAged 75+ and lives alone, %
+p852
+F2.9974758098443415
+sVTop industry, %
+p853
+F17.173866780165994
+sVEquivalent household income <$600/week, %
+p854
+F19.0997186620819
+sVAverage persons per household
+p855
+F2.542925916020326
+sVUnpaid carer of children, %
+p856
+F29.91511500547645
+sVPersonal income <$400/week, %
+p857
+F28.65811612191422
+sVDid not complete year 12, %
+p858
+F20.147722609766106
+sVUniversity students
+p859
+I701
+sVMale-headed lone parent families
+p860
+I38
+sVVolunteers, persons
+p861
+I1795
+sVVolunteers, %
+p862
+F24.751792608935467
+sVOccupied private dwellings
+p863
+I3733
+sVDid not complete year 12, persons
+p864
+I1473
+sVDwellings with no motor vehicle, %
+p865
+F7.50551876379691
+sVTop industry
+p866
+VProfessional, Scientific and Technical Services
+p867
+sVNumber of families
+p868
+I2414
+sV3rd top industry, %
+p869
+F9.853160246861034
+sVNumber of Households
+p870
+I3739
+sVIRSD (avg)
+p871
+F1103.4802111741064
+sVEquivalent household income <$600/week
+p872
+I611
+sVRequires assistance with core activities, %
+p873
+F3.2521221475030315
+sV3rd top industry - persons
+p874
+VRetail Trade
+p875
+sVTop occupation
+p876
+VProfessionals
+p877
+sV3rd top occupation - persons
+p878
+VClerical and Administrative Workers
+p879
+sVDwellings with no internet
+p880
+I423
+sVIRSD (min)
+p881
+F1058.9386562
+sVUnemployed, %
+p882
+F4.094268024765329
+sVSecondary school students
+p883
+I584
+sV% residing near PT
+p884
+I100
+sVIRSD (max)
+p885
+F1147.3120047
+sVAged 75+ and lives alone, persons
+p886
+I285
+sVRequires assistance with core activities, persons
+p887
+I295
+sVFemale-headed lone parent families, %
+p888
+F9.154929577464788
+sV2nd top occupation, %
+p889
+F19.89697359948487
+sVUnpaid carer to person with disability, %
+p890
+F13.066226077378493
+sVDwellings with no internet, %
+p891
+F10.375275938189846
+sVHolds degree or higher, persons
+p892
+I3559
+sVTop occupation, %
+p893
+F40.86713887100236
+sV3rd top occupation, %
+p894
+F13.243185232882594
+sVPublic Housing Dwellings
+p895
+I21
+sVTAFE students
+p896
+I92
+sVPersonal income <$400/week, persons
+p897
+I2078
+sVUnpaid carer of children, persons
+p898
+I2185
+ssS'Springvale'
+p899
+(dp900
+VPopulation in non-private dwellings
+p901
+I128
+sV% dwellings which are public housing
+p902
+F3.07909604519774
+sV2nd top industry - persons
+p903
+VRetail Trade
+p904
+sV2nd top industry, %
+p905
+F10.876259798432251
+sVUnpaid carer to person with disability, persons
+p906
+I1600
+sVHolds degree or higher, %
+p907
+F43.26070901033973
+sV2nd top occupation - persons
+p908
+VTechnicians and Trades Workers
+p909
+sVDwellings with no motor vehicle
+p910
+I918
+sVOccupied private dwellings, %
+p911
+F94.19491525423729
+sVMale-headed lone parent families, %
+p912
+F3.3326874636698314
+sVUnemployed, persons
+p913
+I873
+sVPrimary school students
+p914
+I1236
+sVFemale-headed lone parent families
+p915
+I846
+sVAged 75+ and lives alone, %
+p916
+F2.186013561380427
+sVTop industry, %
+p917
+F26.03583426651736
+sVEquivalent household income <$600/week, %
+p918
+F59.89519650655022
+sVAverage persons per household
+p919
+F2.636691127418279
+sVUnpaid carer of children, %
+p920
+F22.65583377730421
+sVPersonal income <$400/week, %
+p921
+F56.102825745682885
+sVDid not complete year 12, %
+p922
+F44.299303322615216
+sVUniversity students
+p923
+I937
+sVMale-headed lone parent families
+p924
+I172
+sVVolunteers, persons
+p925
+I1476
+sVVolunteers, %
+p926
+F9.907370116794201
+sVOccupied private dwellings
+p927
+I6669
+sVDid not complete year 12, persons
+p928
+I6613
+sVDwellings with no motor vehicle, %
+p929
+F12.966101694915254
+sVTop industry
+p930
+VManufacturing
+p931
+sVNumber of families
+p932
+I5161
+sV3rd top industry, %
+p933
+F9.168533034714446
+sVNumber of Households
+p934
+I7495
+sVIRSD (avg)
+p935
+F851.6789388554231
+sVEquivalent household income <$600/week
+p936
+I3429
+sVRequires assistance with core activities, %
+p937
+F6.7238605898123325
+sV3rd top industry - persons
+p938
+VAccommodation and Food Services
+p939
+sVTop occupation
+p940
+VLabourers
+p941
+sV3rd top occupation - persons
+p942
+VMachinery Operators and Drivers
+p943
+sVDwellings with no internet
+p944
+I1845
+sVIRSD (min)
+p945
+F764.17443521
+sVUnemployed, %
+p946
+F10.389146733309532
+sVSecondary school students
+p947
+I1179
+sV% residing near PT
+p948
+I100
+sVIRSD (max)
+p949
+F988.32181197
+sVAged 75+ and lives alone, persons
+p950
+I432
+sVRequires assistance with core activities, persons
+p951
+I1254
+sVFemale-headed lone parent families, %
+p952
+F16.39217205967836
+sV2nd top occupation, %
+p953
+F16.565767749036873
+sVUnpaid carer to person with disability, %
+p954
+F10.819583446037328
+sVDwellings with no internet, %
+p955
+F26.059322033898304
+sVHolds degree or higher, persons
+p956
+I2343
+sVTop occupation, %
+p957
+F20.941111722619702
+sV3rd top occupation, %
+p958
+F16.35938359933957
+sVPublic Housing Dwellings
+p959
+I218
+sVTAFE students
+p960
+I616
+sVPersonal income <$400/week, persons
+p961
+I8577
+sVUnpaid carer of children, persons
+p962
+I3402
+ssS'Footscray'
+p963
+(dp964
+VPopulation in non-private dwellings
+p965
+I645
+sV% dwellings which are public housing
+p966
+F11.798490318345914
+sV2nd top industry - persons
+p967
+VHealth Care and Social Assistance
+p968
+sV2nd top industry, %
+p969
+I10
+sVUnpaid carer to person with disability, persons
+p970
+I930
+sVHolds degree or higher, %
+p971
+F63.5621521335807
+sV2nd top occupation - persons
+p972
+VClerical and Administrative Workers
+p973
+sVDwellings with no motor vehicle
+p974
+I1277
+sVOccupied private dwellings, %
+p975
+F91.99212340006564
+sVMale-headed lone parent families, %
+p976
+F2.7877055039313796
+sVUnemployed, persons
+p977
+I591
+sVPrimary school students
+p978
+I474
+sVFemale-headed lone parent families
+p979
+I375
+sVAged 75+ and lives alone, %
+p980
+F1.6141254925735071
+sVTop industry, %
+p981
+F11.045531197301855
+sVEquivalent household income <$600/week, %
+p982
+F44.317673378076066
+sVAverage persons per household
+p983
+F2.495461422087746
+sVUnpaid carer of children, %
+p984
+F20.390214314597653
+sVPersonal income <$400/week, %
+p985
+F44.726797910807555
+sVDid not complete year 12, %
+p986
+F29.842399593289272
+sVUniversity students
+p987
+I1408
+sVMale-headed lone parent families
+p988
+I78
+sVVolunteers, persons
+p989
+I1516
+sVVolunteers, %
+p990
+F15.415904006508033
+sVOccupied private dwellings
+p991
+I5606
+sVDid not complete year 12, persons
+p992
+I2935
+sVDwellings with no motor vehicle, %
+p993
+F20.955037742041352
+sVTop industry
+p994
+VAccommodation and Food Services
+p995
+sVNumber of families
+p996
+I2798
+sV3rd top industry, %
+p997
+F9.865092748735245
+sVNumber of Households
+p998
+I5288
+sVIRSD (avg)
+p999
+F938.9988304402457
+sVEquivalent household income <$600/week
+p1000
+I1981
+sVRequires assistance with core activities, %
+p1001
+F6.217842504578355
+sV3rd top industry - persons
+p1002
+VRetail Trade
+p1003
+sVTop occupation
+p1004
+VProfessionals
+p1005
+sV3rd top occupation - persons
+p1006
+VLabourers
+p1007
+sVDwellings with no internet
+p1008
+I1048
+sVIRSD (min)
+p1009
+F755.70748272
+sVUnemployed, %
+p1010
+F8.88321058169247
+sVSecondary school students
+p1011
+I430
+sV% residing near PT
+p1012
+F98.46607103783298
+sVIRSD (max)
+p1013
+F1059.1400578
+sVAged 75+ and lives alone, persons
+p1014
+I213
+sVRequires assistance with core activities, persons
+p1015
+I713
+sVFemale-headed lone parent families, %
+p1016
+F13.402430307362401
+sV2nd top occupation, %
+p1017
+F14.46169422882214
+sVUnpaid carer to person with disability, %
+p1018
+F9.499489274770173
+sVDwellings with no internet, %
+p1019
+F17.197243190022974
+sVHolds degree or higher, persons
+p1020
+I3426
+sVTop occupation, %
+p1021
+F27.74215322308471
+sV3rd top occupation, %
+p1022
+F12.149848126898414
+sVPublic Housing Dwellings
+p1023
+I719
+sVTAFE students
+p1024
+I475
+sVPersonal income <$400/week, persons
+p1025
+I4453
+sVUnpaid carer of children, persons
+p1026
+I2017
+ssS'St_Andrews_Beach'
+p1027
+(dp1028
+VPopulation in non-private dwellings
+p1029
+V<5
+p1030
+sV% dwellings which are public housing
+p1031
+Vn/a
+p1032
+sV2nd top industry - persons
+p1033
+VRetail Trade
+p1034
+sV2nd top industry, %
+p1035
+F11.286681715575622
+sVUnpaid carer to person with disability, persons
+p1036
+I70
+sVHolds degree or higher, %
+p1037
+F36.18233618233618
+sV2nd top occupation - persons
+p1038
+VProfessionals
+p1039
+sVDwellings with no motor vehicle
+p1040
+g1030
+sVOccupied private dwellings, %
+p1041
+F50.47770700636943
+sVMale-headed lone parent families, %
+p1042
+F2.1459227467811157
+sVUnemployed, persons
+p1043
+I15
+sVPrimary school students
+p1044
+I77
+sVFemale-headed lone parent families
+p1045
+I25
+sVAged 75+ and lives alone, %
+p1046
+g1032
+sVTop industry, %
+p1047
+F20.54176072234763
+sVEquivalent household income <$600/week, %
+p1048
+F35.13513513513514
+sVAverage persons per household
+p1049
+F2.7371794871794872
+sVUnpaid carer of children, %
+p1050
+F36.8
+sVPersonal income <$400/week, %
+p1051
+F37.86407766990291
+sVDid not complete year 12, %
+p1052
+F46.63461538461539
+sVUniversity students
+p1053
+I18
+sVMale-headed lone parent families
+p1054
+I5
+sVVolunteers, persons
+p1055
+I142
+sVVolunteers, %
+p1056
+F22.792937399678973
+sVOccupied private dwellings
+p1057
+I317
+sVDid not complete year 12, persons
+p1058
+I291
+sVDwellings with no motor vehicle, %
+p1059
+g1032
+sVTop industry
+p1060
+VConstruction
+p1061
+sVNumber of families
+p1062
+I233
+sV3rd top industry, %
+p1063
+F10.383747178329571
+sVNumber of Households
+p1064
+I312
+sVIRSD (avg)
+p1065
+F1060.5490506220142
+sVEquivalent household income <$600/week
+p1066
+I91
+sVRequires assistance with core activities, %
+p1067
+F1.9875776397515528
+sV3rd top industry - persons
+p1068
+VHealth Care and Social Assistance
+p1069
+sVTop occupation
+p1070
+VTechnicians and Trades Workers
+p1071
+sV3rd top occupation - persons
+p1072
+VManagers
+p1073
+sVDwellings with no internet
+p1074
+I43
+sVIRSD (min)
+p1075
+F1046.0892882
+sVUnemployed, %
+p1076
+F3.260869565217391
+sVSecondary school students
+p1077
+I56
+sV% residing near PT
+p1078
+F29.849610733588218
+sVIRSD (max)
+p1079
+F1077.9156725
+sVAged 75+ and lives alone, persons
+p1080
+g1030
+sVRequires assistance with core activities, persons
+p1081
+I16
+sVFemale-headed lone parent families, %
+p1082
+F10.729613733905579
+sV2nd top occupation, %
+p1083
+F21.31519274376417
+sVUnpaid carer to person with disability, %
+p1084
+F11.09350237717908
+sVDwellings with no internet, %
+p1085
+F6.8471337579617835
+sVHolds degree or higher, persons
+p1086
+I127
+sVTop occupation, %
+p1087
+F21.99546485260771
+sV3rd top occupation, %
+p1088
+F13.605442176870747
+sVPublic Housing Dwellings
+p1089
+g1030
+sVTAFE students
+p1090
+I24
+sVPersonal income <$400/week, persons
+p1091
+I234
+sVUnpaid carer of children, persons
+p1092
+I230
+ssS'St_Kilda'
+p1093
+(dp1094
+VPopulation in non-private dwellings
+p1095
+I870
+sV% dwellings which are public housing
+p1096
+F4.308209483368719
+sV2nd top industry - persons
+p1097
+VHealth Care and Social Assistance
+p1098
+sV2nd top industry, %
+p1099
+F9.889418322395038
+sVUnpaid carer to person with disability, persons
+p1100
+I1128
+sVHolds degree or higher, %
+p1101
+F66.30434782608695
+sV2nd top occupation - persons
+p1102
+VManagers
+p1103
+sVDwellings with no motor vehicle
+p1104
+I2379
+sVOccupied private dwellings, %
+p1105
+F86.95152158527955
+sVMale-headed lone parent families, %
+p1106
+F1.9434124035438696
+sVUnemployed, persons
+p1107
+I623
+sVPrimary school students
+p1108
+I429
+sVFemale-headed lone parent families
+p1109
+I303
+sVAged 75+ and lives alone, %
+p1110
+F1.47844173365563
+sVTop industry, %
+p1111
+F16.47037669693428
+sVEquivalent household income <$600/week, %
+p1112
+F22.26245473841928
+sVAverage persons per household
+p1113
+F1.9805165887330216
+sVUnpaid carer of children, %
+p1114
+F14.415460256760449
+sVPersonal income <$400/week, %
+p1115
+F22.10439898748033
+sVDid not complete year 12, %
+p1116
+F18.917987594762234
+sVUniversity students
+p1117
+I1231
+sVMale-headed lone parent families
+p1118
+I68
+sVVolunteers, persons
+p1119
+I2678
+sVVolunteers, %
+p1120
+F18.326147950455073
+sVOccupied private dwellings
+p1121
+I9829
+sVDid not complete year 12, persons
+p1122
+I2745
+sVDwellings with no motor vehicle, %
+p1123
+F21.045647558386413
+sVTop industry
+p1124
+VProfessional, Scientific and Technical Services
+p1125
+sVNumber of families
+p1126
+I3499
+sV3rd top industry, %
+p1127
+F8.307111390811832
+sVNumber of Households
+p1128
+I8982
+sVIRSD (avg)
+p1129
+F1057.0967797602425
+sVEquivalent household income <$600/week
+p1130
+I1783
+sVRequires assistance with core activities, %
+p1131
+F3.084282746899981
+sV3rd top industry - persons
+p1132
+VAccommodation and Food Services
+p1133
+sVTop occupation
+p1134
+VProfessionals
+p1135
+sV3rd top occupation - persons
+p1136
+VClerical and Administrative Workers
+p1137
+sVDwellings with no internet
+p1138
+I1303
+sVIRSD (min)
+p1139
+F822.32823898
+sVUnemployed, %
+p1140
+F5.220378749790514
+sVSecondary school students
+p1141
+I266
+sV% residing near PT
+p1142
+F99.63102527335204
+sVIRSD (max)
+p1143
+F1114.145442
+sVAged 75+ and lives alone, persons
+p1144
+I263
+sVRequires assistance with core activities, persons
+p1145
+I490
+sVFemale-headed lone parent families, %
+p1146
+F8.659617033438126
+sV2nd top occupation, %
+p1147
+F15.798987707881418
+sVUnpaid carer to person with disability, %
+p1148
+F7.733443027560675
+sVDwellings with no internet, %
+p1149
+F11.52689313517339
+sVHolds degree or higher, persons
+p1150
+I6710
+sVTop occupation, %
+p1151
+F38.19595083152567
+sV3rd top occupation, %
+p1152
+F13.476138828633406
+sVPublic Housing Dwellings
+p1153
+I487
+sVTAFE students
+p1154
+I386
+sVPersonal income <$400/week, persons
+p1155
+I3231
+sVUnpaid carer of children, persons
+p1156
+I2111
+ssS'Mentone'
+p1157
+(dp1158
+VPopulation in non-private dwellings
+p1159
+I183
+sV% dwellings which are public housing
+p1160
+F1.4144011756061718
+sV2nd top industry - persons
+p1161
+VHealth Care and Social Assistance
+p1162
+sV2nd top industry, %
+p1163
+F11.575178997613365
+sVUnpaid carer to person with disability, persons
+p1164
+I1139
+sVHolds degree or higher, %
+p1165
+F50.01960784313726
+sV2nd top occupation - persons
+p1166
+VClerical and Administrative Workers
+p1167
+sVDwellings with no motor vehicle
+p1168
+I443
+sVOccupied private dwellings, %
+p1169
+F91.2747979426892
+sVMale-headed lone parent families, %
+p1170
+F2.286634460547504
+sVUnemployed, persons
+p1171
+I240
+sVPrimary school students
+p1172
+I790
+sVFemale-headed lone parent families
+p1173
+I399
+sVAged 75+ and lives alone, %
+p1174
+F3.172425619480408
+sVTop industry, %
+p1175
+F11.813842482100238
+sVEquivalent household income <$600/week, %
+p1176
+F31.49441340782123
+sVAverage persons per household
+p1177
+F2.344321608040201
+sVUnpaid carer of children, %
+p1178
+F27.704456945045436
+sVPersonal income <$400/week, %
+p1179
+F34.17199869862271
+sVDid not complete year 12, %
+p1180
+F37.74856025209171
+sVUniversity students
+p1181
+I572
+sVMale-headed lone parent families
+p1182
+I71
+sVVolunteers, persons
+p1183
+I1684
+sVVolunteers, %
+p1184
+F18.268604903449774
+sVOccupied private dwellings
+p1185
+I4969
+sVDid not complete year 12, persons
+p1186
+I3474
+sVDwellings with no motor vehicle, %
+p1187
+F8.1373989713446
+sVTop industry
+p1188
+VProfessional, Scientific and Technical Services
+p1189
+sVNumber of families
+p1190
+I3105
+sV3rd top industry, %
+p1191
+F11.131946812137743
+sVNumber of Households
+p1192
+I4975
+sVIRSD (avg)
+p1193
+F1057.9936157034929
+sVEquivalent household income <$600/week
+p1194
+I1353
+sVRequires assistance with core activities, %
+p1195
+F4.926019487549621
+sV3rd top industry - persons
+p1196
+VRetail Trade
+p1197
+sVTop occupation
+p1198
+VProfessionals
+p1199
+sV3rd top occupation - persons
+p1200
+VManagers
+p1201
+sVDwellings with no internet
+p1202
+I921
+sVIRSD (min)
+p1203
+F987.9033103
+sVUnemployed, %
+p1204
+F3.8412291933418694
+sVSecondary school students
+p1205
+I711
+sV% residing near PT
+p1206
+F94.81044963914783
+sVIRSD (max)
+p1207
+F1111.7151237
+sVAged 75+ and lives alone, persons
+p1208
+I370
+sVRequires assistance with core activities, persons
+p1209
+I546
+sVFemale-headed lone parent families, %
+p1210
+F12.85024154589372
+sV2nd top occupation, %
+p1211
+F16.345662178285323
+sVUnpaid carer to person with disability, %
+p1212
+F12.404704857329557
+sVDwellings with no internet, %
+p1213
+F16.917707567964733
+sVHolds degree or higher, persons
+p1214
+I2551
+sVTop occupation, %
+p1215
+F27.714334412817454
+sV3rd top occupation, %
+p1216
+F15.050281234020794
+sVPublic Housing Dwellings
+p1217
+I77
+sVTAFE students
+p1218
+I235
+sVPersonal income <$400/week, persons
+p1219
+I3151
+sVUnpaid carer of children, persons
+p1220
+I2561
+ssS'Mordialloc'
+p1221
+(dp1222
+VPopulation in non-private dwellings
+p1223
+I157
+sV% dwellings which are public housing
+p1224
+F6.3976083707025415
+sV2nd top industry - persons
+p1225
+VHealth Care and Social Assistance
+p1226
+sV2nd top industry, %
+p1227
+F10.621348911311737
+sVUnpaid carer to person with disability, persons
+p1228
+I623
+sVHolds degree or higher, %
+p1229
+F46.50205761316872
+sV2nd top occupation - persons
+p1230
+VClerical and Administrative Workers
+p1231
+sVDwellings with no motor vehicle
+p1232
+I284
+sVOccupied private dwellings, %
+p1233
+F92.37668161434978
+sVMale-headed lone parent families, %
+p1234
+F2.291242362525458
+sVUnemployed, persons
+p1235
+I172
+sVPrimary school students
+p1236
+I593
+sVFemale-headed lone parent families
+p1237
+I249
+sVAged 75+ and lives alone, %
+p1238
+F2.6357615894039736
+sVTop industry, %
+p1239
+F12.108337758895379
+sVEquivalent household income <$600/week, %
+p1240
+F32.668423033496424
+sVAverage persons per household
+p1241
+F2.4481193255512324
+sVUnpaid carer of children, %
+p1242
+F31.429578706151947
+sVPersonal income <$400/week, %
+p1243
+F34.89788606234325
+sVDid not complete year 12, %
+p1244
+F38.6090697257573
+sVUniversity students
+p1245
+I281
+sVMale-headed lone parent families
+p1246
+I45
+sVVolunteers, persons
+p1247
+I1006
+sVVolunteers, %
+p1248
+F17.821080602302924
+sVOccupied private dwellings
+p1249
+I3090
+sVDid not complete year 12, persons
+p1250
+I2154
+sVDwellings with no motor vehicle, %
+p1251
+F8.490284005979074
+sVTop industry
+p1252
+VManufacturing
+p1253
+sVNumber of families
+p1254
+I1964
+sV3rd top industry, %
+p1255
+F9.745087626128518
+sVNumber of Households
+p1256
+I3084
+sVIRSD (avg)
+p1257
+F1051.9267166556253
+sVEquivalent household income <$600/week
+p1258
+I868
+sVRequires assistance with core activities, %
+p1259
+F5.267546907574705
+sV3rd top industry - persons
+p1260
+VProfessional, Scientific and Technical Services
+p1261
+sVTop occupation
+p1262
+VProfessionals
+p1263
+sV3rd top occupation - persons
+p1264
+VManagers
+p1265
+sVDwellings with no internet
+p1266
+I504
+sVIRSD (min)
+p1267
+F977.9599024
+sVUnemployed, %
+p1268
+F4.272230501738698
+sVSecondary school students
+p1269
+I440
+sV% residing near PT
+p1270
+F99.66911109956028
+sVIRSD (max)
+p1271
+F1125.6681041
+sVAged 75+ and lives alone, persons
+p1272
+I199
+sVRequires assistance with core activities, persons
+p1273
+I379
+sVFemale-headed lone parent families, %
+p1274
+F12.678207739307537
+sV2nd top occupation, %
+p1275
+F17.091295116772823
+sVUnpaid carer to person with disability, %
+p1276
+F11.034360609280906
+sVDwellings with no internet, %
+p1277
+F15.067264573991032
+sVHolds degree or higher, persons
+p1278
+I1469
+sVTop occupation, %
+p1279
+F26.778131634819534
+sV3rd top occupation, %
+p1280
+F14.968152866242038
+sVPublic Housing Dwellings
+p1281
+I214
+sVTAFE students
+p1282
+I169
+sVPersonal income <$400/week, persons
+p1283
+I1948
+sVUnpaid carer of children, persons
+p1284
+I1783
+ssS'North_Melbourne'
+p1285
+(dp1286
+VPopulation in non-private dwellings
+p1287
+I835
+sV% dwellings which are public housing
+p1288
+F31.291834002677376
+sV2nd top industry - persons
+p1289
+VHealth Care and Social Assistance
+p1290
+sV2nd top industry, %
+p1291
+F14.041514041514041
+sVUnpaid carer to person with disability, persons
+p1292
+I758
+sVHolds degree or higher, %
+p1293
+F75.9805623047553
+sV2nd top occupation - persons
+p1294
+VClerical and Administrative Workers
+p1295
+sVDwellings with no motor vehicle
+p1296
+I1664
+sVOccupied private dwellings, %
+p1297
+F88.53748326639892
+sVMale-headed lone parent families, %
+p1298
+F2.067751869775627
+sVUnemployed, persons
+p1299
+I579
+sVPrimary school students
+p1300
+I423
+sVFemale-headed lone parent families
+p1301
+I344
+sVAged 75+ and lives alone, %
+p1302
+F1.3358291500042543
+sVTop industry, %
+p1303
+F17.495203209488924
+sVEquivalent household income <$600/week, %
+p1304
+F38.19845857418112
+sVAverage persons per household
+p1305
+F2.371947527749748
+sVUnpaid carer of children, %
+p1306
+F15.596330275229358
+sVPersonal income <$400/week, %
+p1307
+F40.43775056885903
+sVDid not complete year 12, %
+p1308
+F19.15102575294631
+sVUniversity students
+p1309
+I2048
+sVMale-headed lone parent families
+p1310
+I47
+sVVolunteers, persons
+p1311
+I2000
+sVVolunteers, %
+p1312
+F21.860312602470216
+sVOccupied private dwellings
+p1313
+I5291
+sVDid not complete year 12, persons
+p1314
+I1755
+sVDwellings with no motor vehicle, %
+p1315
+F27.84471218206158
+sVTop industry
+p1316
+VProfessional, Scientific and Technical Services
+p1317
+sVNumber of families
+p1318
+I2273
+sV3rd top industry, %
+p1319
+F9.611023896738182
+sVNumber of Households
+p1320
+I4955
+sVIRSD (avg)
+p1321
+F958.6472094731251
+sVEquivalent household income <$600/week
+p1322
+I1586
+sVRequires assistance with core activities, %
+p1323
+F3.2570169556470927
+sV3rd top industry - persons
+p1324
+VEducation and Training
+p1325
+sVTop occupation
+p1326
+VProfessionals
+p1327
+sV3rd top occupation - persons
+p1328
+VManagers
+p1329
+sVDwellings with no internet
+p1330
+I806
+sVIRSD (min)
+p1331
+F413.66868533
+sVUnemployed, %
+p1332
+F9.01307596513076
+sVSecondary school students
+p1333
+I414
+sV% residing near PT
+p1334
+I100
+sVIRSD (max)
+p1335
+F1104.3175096
+sVAged 75+ and lives alone, persons
+p1336
+I157
+sVRequires assistance with core activities, persons
+p1337
+I340
+sVFemale-headed lone parent families, %
+p1338
+F15.134183897932248
+sV2nd top occupation, %
+p1339
+F13.007846556233654
+sVUnpaid carer to person with disability, %
+p1340
+F8.335166043545195
+sVDwellings with no internet, %
+p1341
+F13.487282463186078
+sVHolds degree or higher, persons
+p1342
+I4378
+sVTop occupation, %
+p1343
+F42.9642545771578
+sV3rd top occupation, %
+p1344
+F11.996512641673933
+sVPublic Housing Dwellings
+p1345
+I1870
+sVTAFE students
+p1346
+I348
+sVPersonal income <$400/week, persons
+p1347
+I3732
+sVUnpaid carer of children, persons
+p1348
+I1428
+ssS'South_Yarra'
+p1349
+(dp1350
+VPopulation in non-private dwellings
+p1351
+I738
+sV% dwellings which are public housing
+p1352
+F8.372651625632667
+sV2nd top industry - persons
+p1353
+VHealth Care and Social Assistance
+p1354
+sV2nd top industry, %
+p1355
+F10.667251975417033
+sVUnpaid carer to person with disability, persons
+p1356
+I1413
+sVHolds degree or higher, %
+p1357
+F74.95278352369817
+sV2nd top occupation - persons
+p1358
+VManagers
+p1359
+sVDwellings with no motor vehicle
+p1360
+I2264
+sVOccupied private dwellings, %
+p1361
+F86.90915329844728
+sVMale-headed lone parent families, %
+p1362
+F2.316237296147483
+sVUnemployed, persons
+p1363
+I561
+sVPrimary school students
+p1364
+I497
+sVFemale-headed lone parent families
+p1365
+I370
+sVAged 75+ and lives alone, %
+p1366
+F1.969285415796072
+sVTop industry, %
+p1367
+F20.4126426690079
+sVEquivalent household income <$600/week, %
+p1368
+F20.72613609040635
+sVAverage persons per household
+p1369
+F2.0260345010053973
+sVUnpaid carer of children, %
+p1370
+F15.490369994931577
+sVPersonal income <$400/week, %
+p1371
+F23.829787234042552
+sVDid not complete year 12, %
+p1372
+F16.733396885923103
+sVUniversity students
+p1373
+I1778
+sVMale-headed lone parent families
+p1374
+I98
+sVVolunteers, persons
+p1375
+I3261
+sVVolunteers, %
+p1376
+F20.67850348763475
+sVOccupied private dwellings
+p1377
+I10131
+sVDid not complete year 12, persons
+p1378
+I2633
+sVDwellings with no motor vehicle, %
+p1379
+F19.421806639787253
+sVTop industry
+p1380
+VProfessional, Scientific and Technical Services
+p1381
+sVNumber of families
+p1382
+I4231
+sV3rd top industry, %
+p1383
+F9.35908691834943
+sVNumber of Households
+p1384
+I9449
+sVIRSD (avg)
+p1385
+F1069.677614615864
+sVEquivalent household income <$600/week
+p1386
+I1724
+sVRequires assistance with core activities, %
+p1387
+F2.7290674718383463
+sV3rd top industry - persons
+p1388
+VFinancial and Insurance Services
+p1389
+sVTop occupation
+p1390
+VProfessionals
+p1391
+sV3rd top occupation - persons
+p1392
+VClerical and Administrative Workers
+p1393
+sVDwellings with no internet
+p1394
+I1068
+sVIRSD (min)
+p1395
+F535.20323734
+sVUnemployed, %
+p1396
+F4.614625318746401
+sVSecondary school students
+p1397
+I591
+sV% residing near PT
+p1398
+I100
+sVIRSD (max)
+p1399
+F1153.6857864
+sVAged 75+ and lives alone, persons
+p1400
+I377
+sVRequires assistance with core activities, persons
+p1401
+I470
+sVFemale-headed lone parent families, %
+p1402
+F8.744977546679271
+sV2nd top occupation, %
+p1403
+F18.080533380121064
+sVUnpaid carer to person with disability, %
+p1404
+F8.991981672394044
+sVDwellings with no internet, %
+p1405
+F9.161876983786566
+sVHolds degree or higher, persons
+p1406
+I8334
+sVTop occupation, %
+p1407
+F44.67935783840688
+sV3rd top occupation, %
+p1408
+F13.018685849635933
+sVPublic Housing Dwellings
+p1409
+I976
+sVTAFE students
+p1410
+I301
+sVPersonal income <$400/week, persons
+p1411
+I3752
+sVUnpaid carer of children, persons
+p1412
+I2445
+ssS'Tyabb'
+p1413
+(dp1414
+VPopulation in non-private dwellings
+p1415
+I7
+sV% dwellings which are public housing
+p1416
+Vn/a
+p1417
+sV2nd top industry - persons
+p1418
+VManufacturing
+p1419
+sV2nd top industry, %
+p1420
+F13.648468708388815
+sVUnpaid carer to person with disability, persons
+p1421
+I305
+sVHolds degree or higher, %
+p1422
+F22.445255474452555
+sV2nd top occupation - persons
+p1423
+VClerical and Administrative Workers
+p1424
+sVDwellings with no motor vehicle
+p1425
+I19
+sVOccupied private dwellings, %
+p1426
+F93.36206896551724
+sVMale-headed lone parent families, %
+p1427
+F2.724177071509648
+sVUnemployed, persons
+p1428
+I72
+sVPrimary school students
+p1429
+I291
+sVFemale-headed lone parent families
+p1430
+I131
+sVAged 75+ and lives alone, %
+p1431
+F0.6028131279303416
+sVTop industry, %
+p1432
+F15.179760319573901
+sVEquivalent household income <$600/week, %
+p1433
+F35.53191489361702
+sVAverage persons per household
+p1434
+F2.6401414677276747
+sVUnpaid carer of children, %
+p1435
+F34.82743164500224
+sVPersonal income <$400/week, %
+p1436
+F37.40492170022372
+sVDid not complete year 12, %
+p1437
+F57.88298347476552
+sVUniversity students
+p1438
+I68
+sVMale-headed lone parent families
+p1439
+I24
+sVVolunteers, persons
+p1440
+I422
+sVVolunteers, %
+p1441
+F19.051918735891647
+sVOccupied private dwellings
+p1442
+I1083
+sVDid not complete year 12, persons
+p1443
+I1296
+sVDwellings with no motor vehicle, %
+p1444
+F1.6379310344827587
+sVTop industry
+p1445
+VConstruction
+p1446
+sVNumber of families
+p1447
+I881
+sV3rd top industry, %
+p1448
+F12.84953395472703
+sVNumber of Households
+p1449
+I1131
+sVIRSD (avg)
+p1450
+F1031.5395679832486
+sVEquivalent household income <$600/week
+p1451
+I334
+sVRequires assistance with core activities, %
+p1452
+F3.3077994428969357
+sV3rd top industry - persons
+p1453
+VRetail Trade
+p1454
+sVTop occupation
+p1455
+VTechnicians and Trades Workers
+p1456
+sV3rd top occupation - persons
+p1457
+VProfessionals
+p1458
+sVDwellings with no internet
+p1459
+I136
+sVIRSD (min)
+p1460
+F941.4179959
+sVUnemployed, %
+p1461
+F4.444444444444445
+sVSecondary school students
+p1462
+I258
+sV% residing near PT
+p1463
+F35.676174582954644
+sVIRSD (max)
+p1464
+F1101.608554
+sVAged 75+ and lives alone, persons
+p1465
+I18
+sVRequires assistance with core activities, persons
+p1466
+I95
+sVFemale-headed lone parent families, %
+p1467
+F14.869466515323497
+sV2nd top occupation, %
+p1468
+F15.389740173217854
+sVUnpaid carer to person with disability, %
+p1469
+F13.75112714156898
+sVDwellings with no internet, %
+p1470
+F11.724137931034482
+sVHolds degree or higher, persons
+p1471
+I246
+sVTop occupation, %
+p1472
+F18.854097268487674
+sV3rd top occupation, %
+p1473
+F14.723517654896735
+sVPublic Housing Dwellings
+p1474
+V<5
+p1475
+sVTAFE students
+p1476
+I78
+sVPersonal income <$400/week, persons
+p1477
+I836
+sVUnpaid carer of children, persons
+p1478
+I777
+ssS'Melbourne_Airport'
+p1479
+(dp1480
+VPopulation in non-private dwellings
+p1481
+I246
+sV% dwellings which are public housing
+p1482
+Vn/a
+p1483
+sV2nd top industry - persons
+p1484
+VAccommodation and Food Services
+p1485
+sV2nd top industry, %
+p1486
+F17.54385964912281
+sVUnpaid carer to person with disability, persons
+p1487
+I13
+sVHolds degree or higher, %
+p1488
+F47.5
+sV2nd top occupation - persons
+p1489
+VTechnicians and Trades Workers
+p1490
+sVDwellings with no motor vehicle
+p1491
+I6
+sVOccupied private dwellings, %
+p1492
+I100
+sVMale-headed lone parent families, %
+p1493
+g1483
+sVUnemployed, persons
+p1494
+V<5
+p1495
+sVPrimary school students
+p1496
+I7
+sVFemale-headed lone parent families
+p1497
+g1495
+sVAged 75+ and lives alone, %
+p1498
+g1483
+sVTop industry, %
+p1499
+F19.29824561403509
+sVEquivalent household income <$600/week, %
+p1500
+F43.75
+sVAverage persons per household
+p1501
+F7.368421052631579
+sVUnpaid carer of children, %
+p1502
+F43.83561643835616
+sVPersonal income <$400/week, %
+p1503
+F32.432432432432435
+sVDid not complete year 12, %
+p1504
+F43.58974358974359
+sVUniversity students
+p1505
+g1495
+sVMale-headed lone parent families
+p1506
+g1495
+sVVolunteers, persons
+p1507
+I17
+sVVolunteers, %
+p1508
+F23.943661971830984
+sVOccupied private dwellings
+p1509
+I32
+sVDid not complete year 12, persons
+p1510
+I34
+sVDwellings with no motor vehicle, %
+p1511
+F18.75
+sVTop industry
+p1512
+VConstruction
+p1513
+sVNumber of families
+p1514
+I16
+sV3rd top industry, %
+p1515
+F15.789473684210526
+sVNumber of Households
+p1516
+I19
+sVIRSD (avg)
+p1517
+F1069.8894612
+sVEquivalent household income <$600/week
+p1518
+I7
+sVRequires assistance with core activities, %
+p1519
+g1483
+sV3rd top industry - persons
+p1520
+VManufacturing
+p1521
+sVTop occupation
+p1522
+VManagers
+p1523
+sV3rd top occupation - persons
+p1524
+VCommunity and Personal Service Workers
+p1525
+sVDwellings with no internet
+p1526
+I6
+sVIRSD (min)
+p1527
+F1069.8894612
+sVUnemployed, %
+p1528
+g1483
+sVSecondary school students
+p1529
+I10
+sV% residing near PT
+p1530
+F2.93084449131
+sVIRSD (max)
+p1531
+F1069.8894612
+sVAged 75+ and lives alone, persons
+p1532
+g1495
+sVRequires assistance with core activities, persons
+p1533
+g1495
+sVFemale-headed lone parent families, %
+p1534
+g1483
+sV2nd top occupation, %
+p1535
+F18.181818181818183
+sVUnpaid carer to person with disability, %
+p1536
+F17.56756756756757
+sVDwellings with no internet, %
+p1537
+F18.75
+sVHolds degree or higher, persons
+p1538
+I19
+sVTop occupation, %
+p1539
+F25.454545454545453
+sV3rd top occupation, %
+p1540
+F12.727272727272727
+sVPublic Housing Dwellings
+p1541
+g1495
+sVTAFE students
+p1542
+g1495
+sVPersonal income <$400/week, persons
+p1543
+I24
+sVUnpaid carer of children, persons
+p1544
+I32
+ssS'Sorrento'
+p1545
+(dp1546
+VPopulation in non-private dwellings
+p1547
+I63
+sV% dwellings which are public housing
+p1548
+Vn/a
+p1549
+sV2nd top industry - persons
+p1550
+VRetail Trade
+p1551
+sV2nd top industry, %
+p1552
+F13.235294117647058
+sVUnpaid carer to person with disability, persons
+p1553
+I204
+sVHolds degree or higher, %
+p1554
+F46.497764530551414
+sV2nd top occupation - persons
+p1555
+VManagers
+p1556
+sVDwellings with no motor vehicle
+p1557
+I31
+sVOccupied private dwellings, %
+p1558
+F21.75703500343171
+sVMale-headed lone parent families, %
+p1559
+g1549
+sVUnemployed, persons
+p1560
+I11
+sVPrimary school students
+p1561
+I51
+sVFemale-headed lone parent families
+p1562
+I26
+sVAged 75+ and lives alone, %
+p1563
+F5.02408809359945
+sVTop industry, %
+p1564
+F13.655462184873949
+sVEquivalent household income <$600/week, %
+p1565
+F41.372549019607845
+sVAverage persons per household
+p1566
+F2.4016528925619833
+sVUnpaid carer of children, %
+p1567
+I24
+sVPersonal income <$400/week, %
+p1568
+F37.42833742833743
+sVDid not complete year 12, %
+p1569
+F45.61115668580804
+sVUniversity students
+p1570
+I38
+sVMale-headed lone parent families
+p1571
+V<5
+p1572
+sVVolunteers, persons
+p1573
+I365
+sVVolunteers, %
+p1574
+F29.820261437908496
+sVOccupied private dwellings
+p1575
+I634
+sVDid not complete year 12, persons
+p1576
+I556
+sVDwellings with no motor vehicle, %
+p1577
+F1.0638297872340425
+sVTop industry
+p1578
+VHealth Care and Social Assistance
+p1579
+sVNumber of families
+p1580
+I376
+sV3rd top industry, %
+p1581
+F12.184873949579831
+sVNumber of Households
+p1582
+I605
+sVIRSD (avg)
+p1583
+F1053.280782064556
+sVEquivalent household income <$600/week
+p1584
+I211
+sVRequires assistance with core activities, %
+p1585
+F8.765522279035793
+sV3rd top industry - persons
+p1586
+VConstruction
+p1587
+sVTop occupation
+p1588
+VProfessionals
+p1589
+sV3rd top occupation - persons
+p1590
+VTechnicians and Trades Workers
+p1591
+sVDwellings with no internet
+p1592
+I145
+sVIRSD (min)
+p1593
+F1017.3956684
+sVUnemployed, %
+p1594
+F2.1782178217821784
+sVSecondary school students
+p1595
+I36
+sV% residing near PT
+p1596
+F57.230290211919396
+sVIRSD (max)
+p1597
+F1076.1847303
+sVAged 75+ and lives alone, persons
+p1598
+I73
+sVRequires assistance with core activities, persons
+p1599
+I120
+sVFemale-headed lone parent families, %
+p1600
+F6.914893617021277
+sV2nd top occupation, %
+p1601
+F20.20618556701031
+sVUnpaid carer to person with disability, %
+p1602
+F16.612377850162865
+sVDwellings with no internet, %
+p1603
+F4.975978037062457
+sVHolds degree or higher, persons
+p1604
+I312
+sVTop occupation, %
+p1605
+F22.061855670103093
+sV3rd top occupation, %
+p1606
+F15.670103092783505
+sVPublic Housing Dwellings
+p1607
+g1572
+sVTAFE students
+p1608
+I5
+sVPersonal income <$400/week, persons
+p1609
+I457
+sVUnpaid carer of children, persons
+p1610
+I294
+ssS'Croydon'
+p1611
+(dp1612
+VPopulation in non-private dwellings
+p1613
+I439
+sV% dwellings which are public housing
+p1614
+F4.422486569455104
+sV2nd top industry - persons
+p1615
+VManufacturing
+p1616
+sV2nd top industry, %
+p1617
+F13.063749663767597
+sVUnpaid carer to person with disability, persons
+p1618
+I2220
+sVHolds degree or higher, %
+p1619
+F35.8864781941705
+sV2nd top occupation - persons
+p1620
+VTechnicians and Trades Workers
+p1621
+sVDwellings with no motor vehicle
+p1622
+I716
+sVOccupied private dwellings, %
+p1623
+F92.99693016116655
+sVMale-headed lone parent families, %
+p1624
+F3.2606991691487694
+sVUnemployed, persons
+p1625
+I544
+sVPrimary school students
+p1626
+I1556
+sVFemale-headed lone parent families
+p1627
+I995
+sVAged 75+ and lives alone, %
+p1628
+F3.770060287000085
+sVTop industry, %
+p1629
+F13.153411638124272
+sVEquivalent household income <$600/week, %
+p1630
+F38.34130409424939
+sVAverage persons per household
+p1631
+F2.3506986027944112
+sVUnpaid carer of children, %
+p1632
+F29.183451279259664
+sVPersonal income <$400/week, %
+p1633
+F37.08521662440745
+sVDid not complete year 12, %
+p1634
+F50.552364118426866
+sVUniversity students
+p1635
+I718
+sVMale-headed lone parent families
+p1636
+I208
+sVVolunteers, persons
+p1637
+I3437
+sVVolunteers, %
+p1638
+F18.76706344872775
+sVOccupied private dwellings
+p1639
+I9694
+sVDid not complete year 12, persons
+p1640
+I9152
+sVDwellings with no motor vehicle, %
+p1641
+F6.868764389869532
+sVTop industry
+p1642
+VHealth Care and Social Assistance
+p1643
+sVNumber of families
+p1644
+I6379
+sV3rd top industry, %
+p1645
+F11.153949609970411
+sVNumber of Households
+p1646
+I10020
+sVIRSD (avg)
+p1647
+F1017.8195544289882
+sVEquivalent household income <$600/week
+p1648
+I3287
+sVRequires assistance with core activities, %
+p1649
+F5.638152380112057
+sV3rd top industry - persons
+p1650
+VConstruction
+p1651
+sVTop occupation
+p1652
+VProfessionals
+p1653
+sV3rd top occupation - persons
+p1654
+VClerical and Administrative Workers
+p1655
+sVDwellings with no internet
+p1656
+I1941
+sVIRSD (min)
+p1657
+F884.34041897
+sVUnemployed, %
+p1658
+F4.561844863731656
+sVSecondary school students
+p1659
+I1265
+sV% residing near PT
+p1660
+F99.99999434436754
+sVIRSD (max)
+p1661
+F1142.7582655
+sVAged 75+ and lives alone, persons
+p1662
+I888
+sVRequires assistance with core activities, persons
+p1663
+I1278
+sVFemale-headed lone parent families, %
+p1664
+F15.598056121649162
+sV2nd top occupation, %
+p1665
+F16.828854566556558
+sVUnpaid carer to person with disability, %
+p1666
+F12.183075403358577
+sVDwellings with no internet, %
+p1667
+F18.620491174213353
+sVHolds degree or higher, persons
+p1668
+I3275
+sVTop occupation, %
+p1669
+F20.873136327113652
+sV3rd top occupation, %
+p1670
+F16.80207124363896
+sVPublic Housing Dwellings
+p1671
+I461
+sVTAFE students
+p1672
+I572
+sVPersonal income <$400/week, persons
+p1673
+I6728
+sVUnpaid carer of children, persons
+p1674
+I5361
+ssS'Fawkner'
+p1675
+(dp1676
+VPopulation in non-private dwellings
+p1677
+I262
+sV% dwellings which are public housing
+p1678
+F3.1662822394631998
+sV2nd top industry - persons
+p1679
+VRetail Trade
+p1680
+sV2nd top industry, %
+p1681
+F11.680078029748842
+sVUnpaid carer to person with disability, persons
+p1682
+I1249
+sVHolds degree or higher, %
+p1683
+F41.77693761814745
+sV2nd top occupation - persons
+p1684
+VTechnicians and Trades Workers
+p1685
+sVDwellings with no motor vehicle
+p1686
+I534
+sVOccupied private dwellings, %
+p1687
+F92.32543510169847
+sVMale-headed lone parent families, %
+p1688
+F3.0839694656488548
+sVUnemployed, persons
+p1689
+I350
+sVPrimary school students
+p1690
+I961
+sVFemale-headed lone parent families
+p1691
+I506
+sVAged 75+ and lives alone, %
+p1692
+F3.125743752479175
+sVTop industry, %
+p1693
+F13.67959034381858
+sVEquivalent household income <$600/week, %
+p1694
+F58.9323467230444
+sVAverage persons per household
+p1695
+F2.7691124780316345
+sVUnpaid carer of children, %
+p1696
+F24.615891132572433
+sVPersonal income <$400/week, %
+p1697
+F55.32311062431545
+sVDid not complete year 12, %
+p1698
+F53.66100551119109
+sVUniversity students
+p1699
+I431
+sVMale-headed lone parent families
+p1700
+I101
+sVVolunteers, persons
+p1701
+I821
+sVVolunteers, %
+p1702
+F9.079849590798496
+sVOccupied private dwellings
+p1703
+I4403
+sVDid not complete year 12, persons
+p1704
+I4771
+sVDwellings with no motor vehicle, %
+p1705
+F11.19731599916125
+sVTop industry
+p1706
+VManufacturing
+p1707
+sVNumber of families
+p1708
+I3275
+sV3rd top industry, %
+p1709
+F8.997805413313825
+sVNumber of Households
+p1710
+I4552
+sVIRSD (avg)
+p1711
+F901.6784227855403
+sVEquivalent household income <$600/week
+p1712
+I2230
+sVRequires assistance with core activities, %
+p1713
+F9.939148073022313
+sV3rd top industry - persons
+p1714
+VHealth Care and Social Assistance
+p1715
+sVTop occupation
+p1716
+VProfessionals
+p1717
+sV3rd top occupation - persons
+p1718
+VClerical and Administrative Workers
+p1719
+sVDwellings with no internet
+p1720
+I1497
+sVIRSD (min)
+p1721
+F843.18869919
+sVUnemployed, %
+p1722
+F7.683863885839736
+sVSecondary school students
+p1723
+I746
+sV% residing near PT
+p1724
+F90.38410281796232
+sVIRSD (max)
+p1725
+F1003.1117767
+sVAged 75+ and lives alone, persons
+p1726
+I394
+sVRequires assistance with core activities, persons
+p1727
+I1176
+sVFemale-headed lone parent families, %
+p1728
+F15.450381679389313
+sV2nd top occupation, %
+p1729
+F15.936739659367397
+sVUnpaid carer to person with disability, %
+p1730
+F13.853149955634427
+sVDwellings with no internet, %
+p1731
+F31.390228559446424
+sVHolds degree or higher, persons
+p1732
+I1326
+sVTop occupation, %
+p1733
+F16.739659367396595
+sV3rd top occupation, %
+p1734
+F14.136253041362531
+sVPublic Housing Dwellings
+p1735
+I151
+sVTAFE students
+p1736
+I280
+sVPersonal income <$400/week, persons
+p1737
+I5051
+sVUnpaid carer of children, persons
+p1738
+I2243
+ssS'Moorabbin'
+p1739
+(dp1740
+VPopulation in non-private dwellings
+p1741
+I82
+sV% dwellings which are public housing
+p1742
+F2.9672276350752878
+sV2nd top industry - persons
+p1743
+VHealth Care and Social Assistance
+p1744
+sV2nd top industry, %
+p1745
+F11.844197138314785
+sVUnpaid carer to person with disability, persons
+p1746
+I480
+sVHolds degree or higher, %
+p1747
+F50.5726065048099
+sV2nd top occupation - persons
+p1748
+VClerical and Administrative Workers
+p1749
+sVDwellings with no motor vehicle
+p1750
+I177
+sVOccupied private dwellings, %
+p1751
+F93.26837909654562
+sVMale-headed lone parent families, %
+p1752
+F2.3841961852861036
+sVUnemployed, persons
+p1753
+I115
+sVPrimary school students
+p1754
+I367
+sVFemale-headed lone parent families
+p1755
+I181
+sVAged 75+ and lives alone, %
+p1756
+F3.5923615050103987
+sVTop industry, %
+p1757
+F12.003179650238474
+sVEquivalent household income <$600/week, %
+p1758
+F35.95567867036011
+sVAverage persons per household
+p1759
+F2.45771375464684
+sVUnpaid carer of children, %
+p1760
+F28.10505645557192
+sVPersonal income <$400/week, %
+p1761
+F38.297872340425535
+sVDid not complete year 12, %
+p1762
+F38.82612966601179
+sVUniversity students
+p1763
+I236
+sVMale-headed lone parent families
+p1764
+I35
+sVVolunteers, persons
+p1765
+I713
+sVVolunteers, %
+p1766
+F17.535661583866208
+sVOccupied private dwellings
+p1767
+I2106
+sVDid not complete year 12, persons
+p1768
+I1581
+sVDwellings with no motor vehicle, %
+p1769
+F7.838795394154118
+sVTop industry
+p1770
+VRetail Trade
+p1771
+sVNumber of families
+p1772
+I1468
+sV3rd top industry, %
+p1773
+F10.135135135135135
+sVNumber of Households
+p1774
+I2152
+sVIRSD (avg)
+p1775
+F1042.8032644566629
+sVEquivalent household income <$600/week
+p1776
+I649
+sVRequires assistance with core activities, %
+p1777
+F4.467831612390786
+sV3rd top industry - persons
+p1778
+VManufacturing
+p1779
+sVTop occupation
+p1780
+VProfessionals
+p1781
+sV3rd top occupation - persons
+p1782
+VTechnicians and Trades Workers
+p1783
+sVDwellings with no internet
+p1784
+I444
+sVIRSD (min)
+p1785
+F991.52707571
+sVUnemployed, %
+p1786
+F4.237288135593221
+sVSecondary school students
+p1787
+I283
+sV% residing near PT
+p1788
+I100
+sVIRSD (max)
+p1789
+F1078.9522504
+sVAged 75+ and lives alone, persons
+p1790
+I190
+sVRequires assistance with core activities, persons
+p1791
+I225
+sVFemale-headed lone parent families, %
+p1792
+F12.329700272479563
+sV2nd top occupation, %
+p1793
+F16.33935585231736
+sVUnpaid carer to person with disability, %
+p1794
+F11.872372000989364
+sVDwellings with no internet, %
+p1795
+F19.663418954827282
+sVHolds degree or higher, persons
+p1796
+I1104
+sVTop occupation, %
+p1797
+F24.941084053417125
+sV3rd top occupation, %
+p1798
+F14.06127258444619
+sVPublic Housing Dwellings
+p1799
+I67
+sVTAFE students
+p1800
+I144
+sVPersonal income <$400/week, persons
+p1801
+I1566
+sVUnpaid carer of children, persons
+p1802
+I1145
+ssS'Noble_Park'
+p1803
+(dp1804
+VPopulation in non-private dwellings
+p1805
+I710
+sV% dwellings which are public housing
+p1806
+F9.004654493376298
+sV2nd top industry - persons
+p1807
+VHealth Care and Social Assistance
+p1808
+sV2nd top industry, %
+p1809
+F11.208871780771698
+sVUnpaid carer to person with disability, persons
+p1810
+I2279
+sVHolds degree or higher, %
+p1811
+F38.95672791938352
+sV2nd top occupation - persons
+p1812
+VTechnicians and Trades Workers
+p1813
+sVDwellings with no motor vehicle
+p1814
+I1264
+sVOccupied private dwellings, %
+p1815
+F94.3250984604368
+sVMale-headed lone parent families, %
+p1816
+F3.4413227584352737
+sVUnemployed, persons
+p1817
+I1224
+sVPrimary school students
+p1818
+I1732
+sVFemale-headed lone parent families
+p1819
+I1356
+sVAged 75+ and lives alone, %
+p1820
+F1.9280930560451182
+sVTop industry, %
+p1821
+F22.326092933736597
+sVEquivalent household income <$600/week, %
+p1822
+F53.615635179153095
+sVAverage persons per household
+p1823
+F2.5121756840520675
+sVUnpaid carer of children, %
+p1824
+F24.298543576380812
+sVPersonal income <$400/week, %
+p1825
+F49.644533246596346
+sVDid not complete year 12, %
+p1826
+F45.86263865942884
+sVUniversity students
+p1827
+I1106
+sVMale-headed lone parent families
+p1828
+I256
+sVVolunteers, persons
+p1829
+I2378
+sVVolunteers, %
+p1830
+F11.146004218420435
+sVOccupied private dwellings
+p1831
+I10538
+sVDid not complete year 12, persons
+p1832
+I9716
+sVDwellings with no motor vehicle, %
+p1833
+F11.313999283924096
+sVTop industry
+p1834
+VManufacturing
+p1835
+sVNumber of families
+p1836
+I7439
+sV3rd top industry, %
+p1837
+F10.439006507194573
+sVNumber of Households
+p1838
+I11293
+sVIRSD (avg)
+p1839
+F879.9867372733698
+sVEquivalent household income <$600/week
+p1840
+I4938
+sVRequires assistance with core activities, %
+p1841
+F7.330567081604426
+sV3rd top industry - persons
+p1842
+VRetail Trade
+p1843
+sVTop occupation
+p1844
+VLabourers
+p1845
+sV3rd top occupation - persons
+p1846
+VMachinery Operators and Drivers
+p1847
+sVDwellings with no internet
+p1848
+I2813
+sVIRSD (min)
+p1849
+F760.35716407
+sVUnemployed, %
+p1850
+F9.699659243997147
+sVSecondary school students
+p1851
+I1548
+sV% residing near PT
+p1852
+I100
+sVIRSD (max)
+p1853
+F954.6144484
+sVAged 75+ and lives alone, persons
+p1854
+I547
+sVRequires assistance with core activities, persons
+p1855
+I1961
+sVFemale-headed lone parent families, %
+p1856
+F18.22825648608684
+sV2nd top occupation, %
+p1857
+F15.206115206115205
+sVUnpaid carer to person with disability, %
+p1858
+F10.758119335347432
+sVDwellings with no internet, %
+p1859
+F25.179018976011456
+sVHolds degree or higher, persons
+p1860
+I3286
+sVTop occupation, %
+p1861
+F17.626717626717628
+sV3rd top occupation, %
+p1862
+F14.478114478114477
+sVPublic Housing Dwellings
+p1863
+I1006
+sVTAFE students
+p1864
+I901
+sVPersonal income <$400/week, persons
+p1865
+I10684
+sVUnpaid carer of children, persons
+p1866
+I5222
+ssS'Braybrook'
+p1867
+(dp1868
+VPopulation in non-private dwellings
+p1869
+V<5
+p1870
+sV% dwellings which are public housing
+p1871
+F42.25806451612903
+sV2nd top industry - persons
+p1872
+VRetail Trade
+p1873
+sV2nd top industry, %
+p1874
+F11.814024390243903
+sVUnpaid carer to person with disability, persons
+p1875
+I574
+sVHolds degree or higher, %
+p1876
+F48.82005899705015
+sV2nd top occupation - persons
+p1877
+VProfessionals
+p1878
+sVDwellings with no motor vehicle
+p1879
+I507
+sVOccupied private dwellings, %
+p1880
+F93.80645161290323
+sVMale-headed lone parent families, %
+p1881
+F4.43298969072165
+sVUnemployed, persons
+p1882
+I397
+sVPrimary school students
+p1883
+I582
+sVFemale-headed lone parent families
+p1884
+I477
+sVAged 75+ and lives alone, %
+p1885
+F1.7588860388420666
+sVTop industry, %
+p1886
+F15.891768292682928
+sVEquivalent household income <$600/week, %
+p1887
+F61.46907216494845
+sVAverage persons per household
+p1888
+F2.7344689378757514
+sVUnpaid carer of children, %
+p1889
+F25.357584319265406
+sVPersonal income <$400/week, %
+p1890
+F58.260105448154654
+sVDid not complete year 12, %
+p1891
+F44.464285714285715
+sVUniversity students
+p1892
+I468
+sVMale-headed lone parent families
+p1893
+I86
+sVVolunteers, persons
+p1894
+I591
+sVVolunteers, %
+p1895
+F10.614224137931034
+sVOccupied private dwellings
+p1896
+I2908
+sVDid not complete year 12, persons
+p1897
+I2490
+sVDwellings with no motor vehicle, %
+p1898
+F16.35483870967742
+sVTop industry
+p1899
+VManufacturing
+p1900
+sVNumber of families
+p1901
+I1940
+sV3rd top industry, %
+p1902
+F10.213414634146341
+sVNumber of Households
+p1903
+I2994
+sVIRSD (avg)
+p1904
+F801.1470349052755
+sVEquivalent household income <$600/week
+p1905
+I1431
+sVRequires assistance with core activities, %
+p1906
+F6.435778565584947
+sV3rd top industry - persons
+p1907
+VHealth Care and Social Assistance
+p1908
+sVTop occupation
+p1909
+VLabourers
+p1910
+sV3rd top occupation - persons
+p1911
+VClerical and Administrative Workers
+p1912
+sVDwellings with no internet
+p1913
+I820
+sVIRSD (min)
+p1914
+F618.8596184
+sVUnemployed, %
+p1915
+F12.567268122823679
+sVSecondary school students
+p1916
+I503
+sV% residing near PT
+p1917
+F97.86346040059632
+sVIRSD (max)
+p1918
+F968.90226843
+sVAged 75+ and lives alone, persons
+p1919
+I144
+sVRequires assistance with core activities, persons
+p1920
+I472
+sVFemale-headed lone parent families, %
+p1921
+F24.587628865979383
+sV2nd top occupation, %
+p1922
+F16.190833959429
+sVUnpaid carer to person with disability, %
+p1923
+F10.338616714697407
+sVDwellings with no internet, %
+p1924
+F26.451612903225808
+sVHolds degree or higher, persons
+p1925
+I993
+sVTop occupation, %
+p1926
+F18.181818181818183
+sV3rd top occupation, %
+p1927
+F13.410969196093163
+sVPublic Housing Dwellings
+p1928
+I1310
+sVTAFE students
+p1929
+I256
+sVPersonal income <$400/week, persons
+p1930
+I3315
+sVUnpaid carer of children, persons
+p1931
+I1436
+ssS'Pascoe_Vale_South'
+p1932
+(dp1933
+VPopulation in non-private dwellings
+p1934
+I81
+sV% dwellings which are public housing
+p1935
+F0.8333333333333334
+sV2nd top industry - persons
+p1936
+VEducation and Training
+p1937
+sV2nd top industry, %
+p1938
+F10.924740675347605
+sVUnpaid carer to person with disability, persons
+p1939
+I989
+sVHolds degree or higher, %
+p1940
+F52.054039150813345
+sV2nd top occupation - persons
+p1941
+VClerical and Administrative Workers
+p1942
+sVDwellings with no motor vehicle
+p1943
+I279
+sVOccupied private dwellings, %
+p1944
+F93.25268817204301
+sVMale-headed lone parent families, %
+p1945
+F2.3366336633663365
+sVUnemployed, persons
+p1946
+I214
+sVPrimary school students
+p1947
+I869
+sVFemale-headed lone parent families
+p1948
+I272
+sVAged 75+ and lives alone, %
+p1949
+F2.794640988067825
+sVTop industry, %
+p1950
+F11.564775987640697
+sVEquivalent household income <$600/week, %
+p1951
+F34.11137045681894
+sVAverage persons per household
+p1952
+F2.679192372406057
+sVUnpaid carer of children, %
+p1953
+F31.50761492245354
+sVPersonal income <$400/week, %
+p1954
+F38.43771991555243
+sVDid not complete year 12, %
+p1955
+F40.40106576917683
+sVUniversity students
+p1956
+I460
+sVMale-headed lone parent families
+p1957
+I59
+sVVolunteers, persons
+p1958
+I1172
+sVVolunteers, %
+p1959
+F16.49774774774775
+sVOccupied private dwellings
+p1960
+I3469
+sVDid not complete year 12, persons
+p1961
+I2881
+sVDwellings with no motor vehicle, %
+p1962
+F7.5
+sVTop industry
+p1963
+VHealth Care and Social Assistance
+p1964
+sVNumber of families
+p1965
+I2525
+sV3rd top industry, %
+p1966
+F10.527477378062239
+sVNumber of Households
+p1967
+I3566
+sVIRSD (avg)
+p1968
+F1045.9139663544277
+sVEquivalent household income <$600/week
+p1969
+I1023
+sVRequires assistance with core activities, %
+p1970
+F5.25395958492627
+sV3rd top industry - persons
+p1971
+VRetail Trade
+p1972
+sVTop occupation
+p1973
+VProfessionals
+p1974
+sV3rd top occupation - persons
+p1975
+VManagers
+p1976
+sVDwellings with no internet
+p1977
+I704
+sVIRSD (min)
+p1978
+F1008.1619493
+sVUnemployed, %
+p1979
+F4.452767374115688
+sVSecondary school students
+p1980
+I601
+sV% residing near PT
+p1981
+I100
+sVIRSD (max)
+p1982
+F1097.1276122
+sVAged 75+ and lives alone, persons
+p1983
+I267
+sVRequires assistance with core activities, persons
+p1984
+I481
+sVFemale-headed lone parent families, %
+p1985
+F10.772277227722773
+sV2nd top occupation, %
+p1986
+F17.218395912019552
+sVUnpaid carer to person with disability, %
+p1987
+F13.96695382008191
+sVDwellings with no internet, %
+p1988
+F18.9247311827957
+sVHolds degree or higher, persons
+p1989
+I1888
+sVTop occupation, %
+p1990
+F27.327260608753612
+sV3rd top occupation, %
+p1991
+F14.130193290379916
+sVPublic Housing Dwellings
+p1992
+I31
+sVTAFE students
+p1993
+I199
+sVPersonal income <$400/week, persons
+p1994
+I2731
+sVUnpaid carer of children, persons
+p1995
+I2255
+ssS'Somerville'
+p1996
+(dp1997
+VPopulation in non-private dwellings
+p1998
+I98
+sV% dwellings which are public housing
+p1999
+F3.0459473412493545
+sV2nd top industry - persons
+p2000
+VManufacturing
+p2001
+sV2nd top industry, %
+p2002
+F13.519355472587934
+sVUnpaid carer to person with disability, persons
+p2003
+I905
+sVHolds degree or higher, %
+p2004
+F22.678062678062677
+sV2nd top occupation - persons
+p2005
+VClerical and Administrative Workers
+p2006
+sVDwellings with no motor vehicle
+p2007
+I163
+sVOccupied private dwellings, %
+p2008
+F94.75993804852865
+sVMale-headed lone parent families, %
+p2009
+F2.024147727272727
+sVUnemployed, persons
+p2010
+I232
+sVPrimary school students
+p2011
+I957
+sVFemale-headed lone parent families
+p2012
+I397
+sVAged 75+ and lives alone, %
+p2013
+F2.226400158321789
+sVTop industry, %
+p2014
+F14.403615641579878
+sVEquivalent household income <$600/week, %
+p2015
+F35.38169147925245
+sVAverage persons per household
+p2016
+F2.646935568360398
+sVUnpaid carer of children, %
+p2017
+F33.82120253164557
+sVPersonal income <$400/week, %
+p2018
+F37.15277777777778
+sVDid not complete year 12, %
+p2019
+F59.5058792442859
+sVUniversity students
+p2020
+I241
+sVMale-headed lone parent families
+p2021
+I57
+sVVolunteers, persons
+p2022
+I1248
+sVVolunteers, %
+p2023
+F16.501388337961128
+sVOccupied private dwellings
+p2024
+I3671
+sVDid not complete year 12, persons
+p2025
+I4504
+sVDwellings with no motor vehicle, %
+p2026
+F4.207537429013939
+sVTop industry
+p2027
+VConstruction
+p2028
+sVNumber of families
+p2029
+I2816
+sV3rd top industry, %
+p2030
+F12.772646885439183
+sVNumber of Households
+p2031
+I3818
+sVIRSD (avg)
+p2032
+F1029.0590322507428
+sVEquivalent household income <$600/week
+p2033
+I1117
+sVRequires assistance with core activities, %
+p2034
+F4.572422258592471
+sV3rd top industry - persons
+p2035
+VRetail Trade
+p2036
+sVTop occupation
+p2037
+VTechnicians and Trades Workers
+p2038
+sV3rd top occupation - persons
+p2039
+VProfessionals
+p2040
+sVDwellings with no internet
+p2041
+I586
+sVIRSD (min)
+p2042
+F934.160472
+sVUnemployed, %
+p2043
+F4.26313855200294
+sVSecondary school students
+p2044
+I763
+sV% residing near PT
+p2045
+F31.235484919268487
+sVIRSD (max)
+p2046
+F1120.0427929
+sVAged 75+ and lives alone, persons
+p2047
+I225
+sVRequires assistance with core activities, persons
+p2048
+I447
+sVFemale-headed lone parent families, %
+p2049
+F14.098011363636363
+sV2nd top occupation, %
+p2050
+F14.705882352941176
+sVUnpaid carer to person with disability, %
+p2051
+F12.029775355576232
+sVDwellings with no internet, %
+p2052
+F15.126484254001033
+sVHolds degree or higher, persons
+p2053
+I796
+sVTop occupation, %
+p2054
+F21.32839890923257
+sV3rd top occupation, %
+p2055
+F14.23841059602649
+sVPublic Housing Dwellings
+p2056
+I118
+sVTAFE students
+p2057
+I270
+sVPersonal income <$400/week, persons
+p2058
+I2782
+sVUnpaid carer of children, persons
+p2059
+I2565
+ssS'Windsor'
+p2060
+(dp2061
+VPopulation in non-private dwellings
+p2062
+I302
+sV% dwellings which are public housing
+p2063
+F8.59963626916082
+sV2nd top industry - persons
+p2064
+VHealth Care and Social Assistance
+p2065
+sV2nd top industry, %
+p2066
+F10.296296296296296
+sVUnpaid carer to person with disability, persons
+p2067
+I495
+sVHolds degree or higher, %
+p2068
+F68.03702695344406
+sV2nd top occupation - persons
+p2069
+VManagers
+p2070
+sVDwellings with no motor vehicle
+p2071
+I769
+sVOccupied private dwellings, %
+p2072
+F90.20524811639388
+sVMale-headed lone parent families, %
+p2073
+F2.6334519572953736
+sVUnemployed, persons
+p2074
+I189
+sVPrimary school students
+p2075
+I180
+sVFemale-headed lone parent families
+p2076
+I126
+sVAged 75+ and lives alone, %
+p2077
+F2.1631556623780575
+sVTop industry, %
+p2078
+F17.432098765432098
+sVEquivalent household income <$600/week, %
+p2079
+F26.37205987170349
+sVAverage persons per household
+p2080
+F2.170963781461019
+sVUnpaid carer of children, %
+p2081
+F15.901756902115453
+sVPersonal income <$400/week, %
+p2082
+F26.426910001789228
+sVDid not complete year 12, %
+p2083
+F21.381284666308822
+sVUniversity students
+p2084
+I589
+sVMale-headed lone parent families
+p2085
+I37
+sVVolunteers, persons
+p2086
+I946
+sVVolunteers, %
+p2087
+F16.898892461593427
+sVOccupied private dwellings
+p2088
+I3472
+sVDid not complete year 12, persons
+p2089
+I1195
+sVDwellings with no motor vehicle, %
+p2090
+F19.979215380618342
+sVTop industry
+p2091
+VProfessional, Scientific and Technical Services
+p2092
+sVNumber of families
+p2093
+I1405
+sV3rd top industry, %
+p2094
+F9.012345679012345
+sVNumber of Households
+p2095
+I3258
+sVIRSD (avg)
+p2096
+F1042.271303470099
+sVEquivalent household income <$600/week
+p2097
+I740
+sVRequires assistance with core activities, %
+p2098
+F4.916436800259614
+sV3rd top industry - persons
+p2099
+VRetail Trade
+p2100
+sVTop occupation
+p2101
+VProfessionals
+p2102
+sV3rd top occupation - persons
+p2103
+VClerical and Administrative Workers
+p2104
+sVDwellings with no internet
+p2105
+I526
+sVIRSD (min)
+p2106
+F715.54901377
+sVUnemployed, %
+p2107
+F4.348826507132996
+sVSecondary school students
+p2108
+I104
+sV% residing near PT
+p2109
+I100
+sVIRSD (max)
+p2110
+F1121.1819013
+sVAged 75+ and lives alone, persons
+p2111
+I153
+sVRequires assistance with core activities, persons
+p2112
+I303
+sVFemale-headed lone parent families, %
+p2113
+F8.96797153024911
+sV2nd top occupation, %
+p2114
+F16.753407682775713
+sVUnpaid carer to person with disability, %
+p2115
+F8.957654723127035
+sVDwellings with no internet, %
+p2116
+F13.665887243439855
+sVHolds degree or higher, persons
+p2117
+I2499
+sVTop occupation, %
+p2118
+F39.454770755885995
+sV3rd top occupation, %
+p2119
+F12.98636926889715
+sVPublic Housing Dwellings
+p2120
+I331
+sVTAFE students
+p2121
+I161
+sVPersonal income <$400/week, persons
+p2122
+I1477
+sVUnpaid carer of children, persons
+p2123
+I887
+ssS'Toorak'
+p2124
+(dp2125
+VPopulation in non-private dwellings
+p2126
+I114
+sV% dwellings which are public housing
+p2127
+Vn/a
+p2128
+sV2nd top industry - persons
+p2129
+VHealth Care and Social Assistance
+p2130
+sV2nd top industry, %
+p2131
+F13.929874662858957
+sVUnpaid carer to person with disability, persons
+p2132
+I1230
+sVHolds degree or higher, %
+p2133
+F73.92080976481095
+sV2nd top occupation - persons
+p2134
+VManagers
+p2135
+sVDwellings with no motor vehicle
+p2136
+I572
+sVOccupied private dwellings, %
+p2137
+F86.21387283236994
+sVMale-headed lone parent families, %
+p2138
+F1.7538461538461538
+sVUnemployed, persons
+p2139
+I308
+sVPrimary school students
+p2140
+I608
+sVFemale-headed lone parent families
+p2141
+I257
+sVAged 75+ and lives alone, %
+p2142
+F4.06308266003729
+sVTop industry, %
+p2143
+F17.737585276852293
+sVEquivalent household income <$600/week, %
+p2144
+F18.695471541337763
+sVAverage persons per household
+p2145
+F2.239777275100052
+sVUnpaid carer of children, %
+p2146
+F22.36905565737436
+sVPersonal income <$400/week, %
+p2147
+F25.717321997874603
+sVDid not complete year 12, %
+p2148
+F18.47805252060571
+sVUniversity students
+p2149
+I977
+sVMale-headed lone parent families
+p2150
+I57
+sVVolunteers, persons
+p2151
+I2486
+sVVolunteers, %
+p2152
+F23.825953613187657
+sVOccupied private dwellings
+p2153
+I5966
+sVDid not complete year 12, persons
+p2154
+I1928
+sVDwellings with no motor vehicle, %
+p2155
+F8.265895953757225
+sVTop industry
+p2156
+VProfessional, Scientific and Technical Services
+p2157
+sVNumber of families
+p2158
+I3250
+sV3rd top industry, %
+p2159
+F9.852451213707758
+sVNumber of Households
+p2160
+I5747
+sVIRSD (avg)
+p2161
+F1109.6323440709082
+sVEquivalent household income <$600/week
+p2162
+I900
+sVRequires assistance with core activities, %
+p2163
+F2.8056951423785597
+sV3rd top industry - persons
+p2164
+VRetail Trade
+p2165
+sVTop occupation
+p2166
+VProfessionals
+p2167
+sV3rd top occupation - persons
+p2168
+VClerical and Administrative Workers
+p2169
+sVDwellings with no internet
+p2170
+I670
+sVIRSD (min)
+p2171
+F1083.5297306
+sVUnemployed, %
+p2172
+F4.534079199175622
+sVSecondary school students
+p2173
+I684
+sV% residing near PT
+p2174
+I100
+sVIRSD (max)
+p2175
+F1149.002132
+sVAged 75+ and lives alone, persons
+p2176
+I523
+sVRequires assistance with core activities, persons
+p2177
+I335
+sVFemale-headed lone parent families, %
+p2178
+F7.907692307692308
+sV2nd top occupation, %
+p2179
+F22.787821122740247
+sVUnpaid carer to person with disability, %
+p2180
+F11.913986826811314
+sVDwellings with no internet, %
+p2181
+F9.68208092485549
+sVHolds degree or higher, persons
+p2182
+I4966
+sVTop occupation, %
+p2183
+F39.97779892166191
+sV3rd top occupation, %
+p2184
+F13.495084046939423
+sVPublic Housing Dwellings
+p2185
+V<5
+p2186
+sVTAFE students
+p2187
+I119
+sVPersonal income <$400/week, persons
+p2188
+I2662
+sVUnpaid carer of children, persons
+p2189
+I2319
+ss.

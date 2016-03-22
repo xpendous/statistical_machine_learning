@@ -1,0 +1,37 @@
+baseline - cosine similarity:
+import demographic_baseline.csv into R:
+> bsl_cos <- read.csv("/Users/judith/project/sml/project2/r_data/demographic_baseline_cosine.csv")
+
+get object structure:
+> str(bsl_cos)
+
+> cor(bsl_cos$Cosine_simliarity,bsl_cos$Suburb_distance)
+[1] -0.3956199
+
+get sactter plot:
+> plot(bsl_cos$Suburb_distance,bsl_cos$Cosine_simliarity)
+get sactter plot with smooth fitted line:
+> scatter.smooth(x=bsl_cos$Suburb_distance, y=bsl_cos$Cosine_simliarity,col="#CCCCCC")
+
+----------
+baseline: euclidean similarity:
+> bsl_eucld <- read.csv("/Users/judith/project/sml/project2/r_data/demographic_baseline_eucld.csv")
+
+> str(bsl_eucld)
+
+get sactter plot:
+> plot(bsl_eucld$Suburb_distance,bsl_eucld$Duclidean_distance)
+get sactter plot with smooth fitted line:
+> scatter.smooth(x=bsl_eucld$Suburb_distance, y=bsl_eucld$Duclidean_distance,col="#CCCCCC")
+
+----------
+# remove Top/2nd top/3rd top industry/occupation with propotion
+> bsl_remove <- read.csv("/Users/judith/project/sml/project2/r_data/demographic_remove_features.csv")
+> plot(bsl_remove$Suburb_distance,bsl_remove$Duclidean_distance)
+> scatter.smooth(x=bsl_remove$Suburb_distance, y=bsl_remove$Duclidean_distance,col="#CCCCCC")
+
+----------
+plot one feature:
+> rdt<- read.csv("/Users/judith/project/sml/project2/r_data/features.csv")
+> str(rdt)
+> plot(rdt$X5)
